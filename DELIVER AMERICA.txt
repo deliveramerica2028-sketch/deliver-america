@@ -1,0 +1,916 @@
+﻿DELIVER AMERICA
+A Proposal for the Public Acquisition of Amazon’s Delivery Network and the Transformation of the United States Postal Service
+________________
+
+
+EXECUTIVE SUMMARY
+Deliver America proposes the public acquisition of Amazon's Delivery Network and its integration with the United States Postal Service, creating a single national network under a federally chartered public authority. The acquisition would be: 
+* Negotiated at fair market value
+* Financed through publicly offered American Commerce Bonds
+* Structured to pay for itself through operating revenue.
+On Day One, approximately 1 million workers would convert to federal employment. Operational integration would follow on a deliberate schedule, led by USPS veterans and Amazon alumni, with congressional oversight.
+As robots continue to replace human workers, the resulting savings would be redirected through an Automation Dividend to worker transition support, rural service expansion, and lower shipping costs for American businesses and households.
+The result would be a postal service rebuilt for the 21st century, one that fulfills the constitutional mandate Congress established at America’s founding, at the scale demanded by the modern American economy.
+The full proposal, source citations, and forthcoming companion papers are available at DeliverAmerica.org
+
+
+
+
+
+
+1. Introduction
+The Post Office is In Trouble 
+It has lost $25 billion over 3 years and $109 billion since 2007. By law, it is funded from its own revenue, and that revenue base is in decline. The USPS has been on the Government Accountability Office's (GAO’s) High Risk List continuously since 2009, and as of 2026, has reached its federal borrowing limit. Postmaster General David Steiner has reported that if USPS were required to make all mandated payments toward its unfunded liabilities, it could exhaust its cash reserves as early as 2031. 
+Declining Mail Volume
+USPS First-class mail peaked at 103.65 billion pieces in 2001 and has since fallen by more than 57% to approximately 44.3 billion pieces. Total mail volume peaked at 213 billion pieces in 2006 and has fallen by roughly 47% since. Because postal delivery is largely a fixed-cost operation, that decline has not produced proportional reduction in expenses. Package volume has partially filled the revenue gap, but in FY2025 package volume itself declined 5.7%, with revenue growth coming entirely from price increases. 
+Market-dominant mail (mail products over which USPS has a legal monopoly) still contributed 53% of USPS revenue in FY2023 despite decades of volume loss, leaving the agency dependent on its fastest-shrinking product category.
+Lingering Debt 
+The Postal Accountability and Enhancement Act of 2006 required the Postal Service to pre-fund retiree health benefits at approximately $5.5 billion per year. The Postal Service Reform Act of 2022 repealed the pre-funding schedule, canceled past-due payments, and integrated postal retiree health coverage with Medicare. That reform is done.
+The liabilities that accumulated while the schedule was in force remain on the books, however, and the amortization payments against them continue to drive the majority of reported annual losses. More than 80 percent of the fiscal year 2025 net loss is attributed to factors outside management's control. The loss the Postal Service earned on operations proper, its controllable loss, was $2.7 billion.
+The Rise of Amazon Logistics
+Meanwhile, other delivery interests have grown to dominate the market. From 2018 to 2024, Amazon’s package volume increased by 688%, making it the fastest-growing major carrier in the United States. Amazon surpassed the Postal Service in parcel volume in 2025.
+Amazon's global warehouse footprint now totals more than 624 million square feet across roughly 2,500 facilities, including sorting centers, delivery stations, air hubs, and a last-mile fleet of over 40,000 semi-trucks and 30,000 vans. In 2024 alone, Amazon signed 31 million square feet of new leases, surpassing its pre-pandemic average. In under a decade, Amazon has become a national delivery service provider on par with FedEx, UPS, and USPS itself. 
+Amazon is Filling The Gap
+Amazon is a quintessentially American success. For 32 years, the company has met opportunity with ingenuity, often by creating entirely new categories of products and services.It is the second largest private employer in the United States, and the second largest company in the world. Few other organizations have had such a profound impact on 21st century commerce, and its influence grows. 
+That said, Amazon’s specific dominance in parcel distribution is the consequence of era-defining technological advance, not the cause. Americans don’t often send letters anymore. We do, however, order a lot of packages from the internet. 
+The Cost of Duplication
+In 2024, Amazon spent $194.3 billion on shipping and fulfillment combined: $95.8 billion on shipping and $98.5 billion on fulfillment operations. That figure represents private capital deployed to replicate, at considerable expense, logistics capacity the USPS theoretically should serve. 
+In spite of this redundancy, Amazon is the largest single customer of the USPS. In 2025, Amazon generated more than $6 billion in revenue for USPS, accounting for roughly 25% of all packages the agency delivered, and between 30% and 40% of packages in some rural areas. 
+That relationship is now contracting. In April of 2026, the two parties revised their agreement, reducing Amazon's USPS volume by 20%. Layered onto cumulative losses of $25 billion over three years and a cash position the Postmaster General has described as insufficient, this reduction threatens further damage to USPS solvency. In May of 2026, Amazon announced the launch of Amazon Supply Chain Services (ASCS), opening its freight, distribution, fulfillment, and parcel shipping capabilities to businesses of all types and sizes.
+Why This is a Problem
+Rural America and the Limits of Private Service
+The USPS stands alone in its legal obligation to serve every address in the country (approximately 168 million delivery points) six days a week, at uniform pricing. Federal law prohibits closing post offices solely on the basis of operating at a deficit. This limits cost-cutting options precisely where delivery is most expensive.
+What makes this obligation burdensome is not the eye-watering expense of rural delivery, but the collapse of revenue streams that once subsidized it. The USPS absorbs the full cost of rural delivery without the pricing flexibility private carriers are free to exercise. For example: UPS charges Delivery Area Surcharges of up to $19.30 for rural and extended zones atop 5$ residential surcharges; their rural pickups can exceed $20. USPS charges nothing extra. The cost of service remains the same for all Americans, no matter where we live. 
+In 2025 Amazon announced a $4 billion rural expansion to more than 200 new delivery stations targeting 4,000 communities. For Amazon, this expansion is economically viable because it controls both the retail platform through which orders are generated, and the logistics infrastructure that fulfills them. This gives Amazon the ability to anticipate rural routes it can fulfill on its own and build out its network accordingly with no other external shippers involved.
+It’s an incredible feat. Private players stepping up to fill gaps in public service could be defended as a market success.  What Amazon is not obliged to make, however, is a public commitment. Their private infrastructure operates where it creates shareholder value. Amazon is not a charity.
+
+
+Price Fixing and Privacy
+According to a class action now certified to represent approximately 288 million consumers, Amazon’s reach allows it to distort pricing across the entire e-commerce market. The core allegation in De Coster et al. v. Amazon.com, Inc. is that Amazon penalizes third-party sellers who offer lower prices on competing platforms, using fulfillment access as a lever to enforce price floors across the internet economy. A seller who cannot afford to lose Amazon logistics access cannot afford to price competitively elsewhere. The consumer, of course, pays the difference. 
+ What We Should Do About It
+Deliver America proposes the public acquisition of Amazon's Delivery Network and its integration with the United States Postal Service, creating a single national network under a federally chartered public authority. The acquisition would be: 
+* Negotiated at fair market value
+* Financed through publicly offered American Commerce Bonds
+* Structured to pay for itself through operating revenue.
+On Day One, approximately 1 million workers would convert to federal employment. Operational integration would follow on a deliberate schedule, led by USPS veterans and Amazon alumni, with congressional oversight.
+As this network automates, the resulting savings would be redirected through an Automation Dividend to worker transition support, rural service expansion, and lower shipping costs for American businesses and households.
+The result would be a postal service rebuilt for the 21st century, one that fulfills the constitutional mandate Congress established at America’s founding, at the scale demanded by the modern American economy.
+All we require is the political will to act.
+
+
+The Time To Act Is Now
+Amazon has already begun opening its logistics network to third-party shippers who do not sell on its platform, reinforcing its function as an independent logistics operator rather than an extension of its retail business. Networks strengthen with use, and a logistics business with hundreds of customers is easier to acquire than one with thousands. Amazon is actively building toward the latter, and the acquisition case will not improve with time.
+The Political Outlook
+Deliver America has the potential for broad, bipartisan support.
+Infrastructure. Public investments in physical systems that connect the country have historically enjoyed broad popular support, from canals and bridges to rural electrification and the interstate highway system. Recent polling confirms that sentiment endures: 65% of Americans supported the 2021 Bipartisan Infrastructure Law, including majorities of independents and significant minorities of Republicans. 
+Economic Fairness. Amazon is the second-largest private employer in the United States. Its 750,000 warehouse workers and 256,000 delivery drivers do not have what post office workers enjoy: federal wage floors, civil service protections, and job security. Most Americans, regardless of party, believe that people doing physically demanding, economically essential work deserve basic protections. Deliver America proposes to extend those protections to a million people on Day One as a direct consequence of public acquisition.
+Automation. A January 2025 survey found 89% of U.S. workers are concerned about AI's impact on their job security, and companies cut 55,000 roles attributed directly to AI in 2025: a 12-fold increase from 2023. Deliver America proposes that realized labor cost savings from automation be returned to workers and communities. The Automation Dividend is a concrete plan to address structural workforce changes. When automation happens inside public infrastructure, the proceeds should belong to the public.
+
+
+How To Take Action
+Engage The Framework 
+This proposal, its assumptions, and models are provided with the hope that they will be examined in public by subject matter experts. If you have ever worked for the USPS or Amazon we are particularly interested in your perspective.
+Commission The Independent Study
+A member of Congress could introduce an act directing the Government Accountability Office to examine Deliver Americas premises. A foundation or university could fund an independent version. Either would move the proposal from argument toward evidence.
+Begin The Conversation. 
+Share this proposal with people who make decisions: your representatives, your local officials, journalists, policy researchers. Share it with your friends, family and coworkers. The more people who engage with it seriously, the better it gets. 
+2.  The Constitutional Mandate
+The Founders' Intent
+The Founders built the postal system before most other federal institutions because they understood it as an indispensable prerequisite for democratic self-government. A nation cannot survive absent the means to communicate with and supply itself on its own terms. 
+Pre-Constitutional Roots
+Colonial leadership anticipated that secure communication would be critical to winning their independence. Three months after Lexington and Concord, the Continental Congress appointed Benjamin Franklin as the first Postmaster General on July 26, 1775. During the Revolutionary War, the postal system was the connective tissue between army commanders and the first elected representatives, and between representatives and their constituents across hundreds of miles of rough roads. 
+The Articles of Confederation, ratified in 1781, formally granted Congress "the sole and exclusive right and power of...establishing or regulating post offices from one State to another." By the time of the Constitutional Convention in 1787, the postal system had already existed in some form for 12 years. 
+Article I, Section 8, Clause 7
+Article I, Section 8 enumerates 18 specific Powers of Congress. Clause 7 reads, "The Congress shall have Power...To establish Post Offices and post Roads."
+Considered alongside the other 17 powers (taxes, borrowing, interstate and foreign commerce, immigration, bankruptcy, currency, counterfeiting, and roads, patents and copyrights, courts, piracy, declarations of war, armies, navies, military governance, and the governance of the capital district), the postal service is a remarkable inclusion. The Postal Service is the only domestic civilian infrastructure function in the list. Everything else concerns national revenue, defense, commerce, or the courts. 
+The Founders’ enumeration of the postal system alongside war powers and monetary authority is a considered statement about the significance of delivery infrastructure. 
+The Necessary and Proper Clause
+Article I, Section 8, Clause 18 grants Congress the power "To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers." The postal clause's directive to "establish" post offices and post roads becomes, through the Necessary and Proper Clause, a broad legislative grant to do whatever is required to fulfill that function. While the primary infrastructure of American commerce has shifted from post roads to fulfillment networks, the constitutional mandate to maintain that infrastructure has not expired.
+Historical Precedents for Public Acquisition of Private Infrastructure
+Kohl v. United States (1875)
+The post office is so vital to the function of the United States government that the very first federal eminent domain case was decided over postal expansion. In Kohl v. United States, 91 U.S. 367 (1875), the Supreme Court held that the federal government possesses the inherent right to acquire private property for public use within the states, as necessary to fulfill its constitutional functions, in this case the establishment of post offices. The Court declared that this authority "is essential to a nation's independent existence and perpetuity."
+Deliver America does not propose the acquisition of any assets via eminent domain. Kohl v. United States is of interest, however, because it confirms that the power to acquire infrastructure in service of the postal mandate is not a new idea. The question of how to adequately provision the post office is essential to government function, recognized by the Supreme Court 150 years ago, and rooted in the same Article I authority that established the post office in the first place.
+The Interstate Highway System
+Before 1956, the United States had no connected national network of high-speed roads. Limited-access highways existed only in scattered segments, most built by individual states through toll authorities that issued bonds and charged drivers to repay them. The Pennsylvania Turnpike, opened in 1940, was the first and prompted similar projects in a dozen other states, but these were isolated routes serving single corridors rather than a system. A national network required financing and uniform standards that no single state would supply on its own.
+The Federal-Aid Highway Act of 1956 provided both. It authorized 41,000 miles of the Interstate Highway System built to common engineering standards, with the federal government paying 90 percent of construction costs through a dedicated Highway Trust Fund financed by motor fuel taxes. The original authorization was $25 billion, equivalent to over $200 billion in today's dollars. The states retained ownership and operation of the roads; the federal role was to fund the network and set the standards that kept it continuous across state lines.
+Where a state toll road already followed an Interstate route, the Act designated it into the system rather than buying it. The network was financed by the public and built to a common standard, owned and operated throughout by non-federal authorities. 
+The Tennessee Valley Authority (TVA)
+President Roosevelt signed the Tennessee Valley Authority Act on May 18, 1933, creating the Tennessee Valley Authority (TVA) as a federally owned corporation. It is not-for-profit and has funded all of its operations since 1999 from power sales rather than federal appropriations. It raises capital through bonds sold in the public markets without a federal guarantee. A 9-member board nominated by the President and confirmed by the Senate chooses its chief executive and sets rates, which by statute must stay as low as feasible while covering costs and debt service. It is the largest public power provider in the country, serving roughly 10 million people at rates below those most large United States utilities charge. 
+The Transportation Security Administration (TSA)
+At the time of the September 11 attacks, myriad private security companies managed air travel security under contract to individual airlines. Congress created the Transportation Security Administration through the Aviation and Transportation Security Act, signed into law on November 19, 2001, setting a one-year deadline for federal officers to take over passenger and baggage screening nationwide. TSA met that deadline, replacing 16,500 private airport screeners with more than 40,000 federal screeners across 429 commercial airports by November 19, 2002. This replacement of a private, contractor-based workforce with a federal one, at this scale and on this timetable, is the most direct operational precedent for what Deliver America proposes.
+The Rural Electrification Act
+In 1936, nearly 90 percent of farms lacked electric power because the cost of transmitting electricity to rural areas was prohibitive. Private utilities had studied the problem and declined to solve it; the math did not work for shareholders. The Rural Electrification Act was signed into law by President Roosevelt on May 20, 1936, providing federal loans for the installation of electrical distribution systems to serve isolated rural areas, channeled through cooperative electric power companies. By 1950, close to 80 percent of U.S. farms had electric service. The Rural Electrification Act's core logic, that markets will not serve dispersed populations at uniform prices without public intervention, applies with equal force to rural parcel delivery in 2026.
+These precedents establish a consistent principle: when private infrastructure becomes essential, the public should have a stake in it. 
+Couldn’t We Just Regulate Amazon? 
+There are good arguments for regulating Amazon’s Delivery Network as a common carrier. 
+The Hepburn Act
+The Hepburn Act of 1906 brought railroads and oil pipelines under federal regulation as common carriers required to carry all shippers on equal terms. Standard Oil had used its control of the interstate pipeline network not merely to transport oil, but to determine who else could participate in the oil business. Congress responded by obligating them to carry all shippers on equal terms at published, non-discriminatory rates.
+This principle should still hold in the 21st century: whoever controls the conduit controls who can compete, and a remedy is to regulate the conduit rather than the commerce moving through it. 
+Multi-platform integration as an anticompetitive workaround has been a concern, especially with respect to Amazon, for almost a decade. Lina Khan (FTC chair, 2021 to 2025) anticipated the dynamic in 2017. Among her recommended potential remedies was to regulate parts of Amazon as public utilities. But we didn’t do it then, and much has happened in the intervening 9 years. 
+Why should the United States trouble itself to acquire the Delivery Network?
+1. Amazon’s logistics buildout has surpassed the USPS and threatens to supplant it. By itself, this is a reason to pursue regulation, but it does not address the ongoing threats to USPS solvency, which would persist. 
+2. Bringing Amazon’s Delivery Network into the USPS would protect the privacy of citizen (i.e customer) data; [a]maintaining high federal safety standards to which Amazon is not beholden and which a common carrier regulation would not address on its own. 
+3. Working conditions for Amazon employees and contractors are suboptimal (an issue we take up in Chapter 4). Federal safety enforcement under the Postal Employees Safety Enhancement Act would apply to the Delivery Network automatically once it operates inside USPS, without new legislative language required beyond the acquisition itself. 
+4. Common carrier regulation would leave the automation trajectory entirely inside Amazon's warehouses and vehicles, with no claim on savings for the workers those systems replace. The Automation Dividend would direct a defined share of automation's labor-cost savings toward worker transition, rural service expansion, and bond repayment instead.
+Common carrier legislation would likely take years and split along party lines, and Amazon's position would keep entrenching for as long as it lasted. A negotiated acquisition, financed by bonds offered to the public, would resolve the question as a market transaction rather than a multi-year legal fight.
+We should just buy the damn thing. 
+3. Proposed Acquisitions
+Defining the Transaction
+Deliver America proposes to acquire a specific, bounded set of assets: the network through which Amazon.com, Inc. moves a package from warehouse shelf to doorstep. This proposal names that network the Delivery Network. It would comprise:
+* fulfillment centers
+* sortation centers
+* delivery stations
+* the ground (and potentially air) fleet 
+* the routing and operational software that directs them, and 
+* the robotics systems deployed across the facilities. 
+The Delivery Network, once acquired, would be integrated with the United States Postal Service and operated by a federally chartered authority answering to the Postmaster General. We call that body the Deliver America Authority. 
+It would not include the retail marketplace, Amazon Web Services (AWS), the advertising business, the devices and entertainment divisions, or the Prime membership program, all of which would remain with Amazon. The precise boundary within Amazon's logistics operation, including which adjacent services would stay with Amazon, is drawn in the Perimeter section below.
+One obvious objection is that the Amazon Distribution Network as defined is not a standalone company waiting to be bought. Amazon does not report these departments as a separate financial segment, and their operations are woven into the retail business at the level of inventory forecasting, demand planning, and order routing. Their separation will require work. This paper models the effort at the level public data allows; executing it will require subject-matter experts.
+Three facts make this work achievable: 
+1. Amazon facilities, fleet, and delivery workforce are managed separately from the retail and technology divisions. 
+2. Amazon already sells logistics capacity to outside parties through Fulfillment by Amazon and, more recently, by opening its delivery network to third-party shippers who do not sell on Amazon at all. 
+3. Remaining integration exists at the software and data layer. Warehouses, trucks, and sortation equipment transfer cleanly; the systems connecting them to Amazon's retail operation may be addressed through licensing agreements that define the boundary.
+Asset Inventory
+The figures here are drawn from public filings and from third-party network tracking, principally MWPVL International. MWPVL establishes the scale and composition of the network with reasonable confidence. These figures are not a substitute for the audited carve-out financials this transaction would require.
+Facilities
+Within the United States, Amazon operates more than 600 logistics facilities of all types, including fulfillment centers, sortation centers, delivery stations, inbound cross-docks, and air gateways, totaling roughly 435 million square feet, per MWPVL International first-quarter 2025 data. The global network is larger, at approximately 1,200 facilities. The transaction contemplated here concerns the United States network. That count predates a clean split by facility type, and some buildings in it are Amazon Warehousing and Distribution centers that would sit outside the perimeter drawn below. Appendix A flags the facility type that a valuation would require.
+One valuation question cannot be answered from public data: the division between owned and leased facilities. Amazon leases a substantial share of its operational space. Leased facilities are not owned assets that pass by sale - they must be assigned or renegotiated, each subject to its own terms and to landlord consent. The square footage figure measures operational capacity, not acquirable property. Establishing the owned-versus-leased split, and the net book value of the owned portion, requires Amazon's property records and is a precondition to any credible valuation.
+Fleet
+Amazon's branded transportation fleet includes approximately 40,000 semi-trucks, 30,000 delivery vans, and approximately 110 aircraft operated through Amazon Air, together with more than 70,000 trailers and more than 20,000 intermodal containers. These are global figures; the United States accounts for the majority but not the whole. Three distinctions bear on acquisition:
+1. The 30,000 branded vans are a fraction of the vehicles delivering Amazon packages, because most last-mile delivery is performed by Delivery Service Partners (DSPs) using vehicles those contractors own or lease, which do not transfer with the network 
+2. The aircraft and a portion of the trailer fleet are leased rather than owned, so here again the figures state operational capacity, with the owned share awaiting financial confirmation. 
+3. The line-haul trucks and trailers that carry parcels through the network would be acquired, while assets dedicated to the commercial freight service Amazon sells to industrial shippers, including intermodal and rail operations, would remain Amazon's under the perimeter drawn below. The two share vehicles and lanes, so which specific assets would transfer is a question for an audited carve-out.
+Automation
+More than 1 million robots operate across the fulfillment network, a threshold Amazon reported crossing in 2025, with robotic systems now involved in roughly 75 percent of delivery volume. These systems are developed and produced by Amazon Robotics, the wholly owned subsidiary that began as Kiva Systems, acquired by Amazon in 2012. Amazon Robotics holds the patents, designs, and production capacity behind the deployed fleet. Its intellectual property, more than the unit count, is the consequential asset, because it informs whether the fleet would become dependent on its former owner for replacement and upgrade. The treatment of that intellectual property would be a defined term of the acquisition agreement.
+Operational Technology
+Routing algorithms, network-planning systems, warehouse-management software, and fleet-coordination tools direct the physical assets above. This layer is the most deeply integrated with Amazon's retail and inventory platforms and the least amenable to clean transfer. Its disposition, by transfer or by license, would also be a defined term of the agreement.
+Workforce 
+The network is operated by more than 1 million workers. The composition of that workforce, the share directly employed against the share contracted, and the obligations attaching to each, are the subject of Chapter 4.
+What Public Data Cannot Establish
+Three inputs essential to valuation lie outside public reach:
+1. The owned-versus-leased division of facilities and fleet
+2. The net book value of owned property and equipment 
+3. The capitalized cost and depreciation schedule of the robotics fleet. 
+The valuation that follows proceeds on public estimates and states its assumptions. 
+The Perimeter: What Would Be Acquired, and What Would Not
+Amazon today markets its logistics capabilities as a single integrated platform. Amazon Supply Chain Services (ASCS) offers sellers an end-to-end chain: pickup at manufacturing facilities abroad, cross-border ocean and air freight with customs clearance through Amazon Global Logistics (AGL) and Seller Export and Delivery (SEND), bulk storage through Amazon Warehousing and Distribution (AWD), bulk movement to any sales channel through Multi-Channel Distribution (MCD), order fulfillment through Fulfillment by Amazon (FBA) and Multi-Channel Fulfillment (MCF), and parcel carriage to the customer's address, including through Amazon Shipping, the carrier service Amazon sells to outside shippers. 
+A serious description of an acquisition must state which of these layers would pass to public ownership.
+The proposed list of acquisitions follows from the Constitution. Article I, Section 8, Clause 7 concerns carriage of items to American destinations (“post roads”), which the Postal Service exists to perform. The Delivery Network, as this proposal defines it, would comprise the layer of Amazon's operation that performs that same function: the fulfillment centers where orders are picked and packed, the sortation centers and domestic line-haul fleet that move them, the delivery stations and delivery workforce that carry them to the door, and the software and robotics that operate those facilities. Enabling legislation could apply a functional test: an asset or service would belong inside the acquisition if its purpose is moving goods to American addresses, including the short-dwell inventory positioning (“post offices”) that order fulfillment requires. It would belong outside if its purpose is storage, supply-chain management, or cross-border carriage.
+Under that test, Amazon would retain its entire supply-chain services business. AWD, which sells bulk and long-term storage as a product, would remain Amazon's. So would MCD, which distributes bulk inventory to wholesale and retail channels; AGL and SEND, which sell international freight forwarding and customs brokerage; the Partnered Carrier Program, a procurement arrangement rather than an asset; Buy with Prime, a commerce service on sellers' own sites; and the managed supply-chain orchestration layer that coordinates them. These services would continue to operate, and Amazon would continue to sell them. 
+What would change is the handoff at the end of the chain: inventory bound for American customers would be inducted into the public network for fulfillment and delivery, under a long-term service agreement for Amazon's own volume and at published, non-discriminatory rates for every other shipper.
+The distinction between storage incident to carriage and storage as a product deserves a look, because the two occupy similar buildings. A fulfillment center holds inventory briefly and for one purpose: so that an order placed today can reach an address tomorrow. That holding is part of carriage, as surely as a package resting overnight in a postal processing plant is part of mail delivery. A bulk storage contract, by contrast, is a warehousing service, a business the Postal Service has never been in and should not enter. The enabling legislation could fix the mission boundary in statute: the network would exist to deliver, and the adjacent businesses of warehousing, supply-chain management, and international freight would remain where they are today, in private hands, as customers of the public network.
+Deliver America would acquire what duplicates and supplants the Postal Service, and nothing beyond it.
+Valuation Methodology
+Figures below are estimates derived from public data, and rest on assumptions stated plainly so a reviewer can test them. 
+Valuation of the Distribution Network can be approached from multiple angles: 
+The Asset Approach
+The asset approach asks what it would cost to rebuild the network from nothing: over 600 United States facilities and roughly 435 million square feet of operational space, approximately 40,000 trucks and 30,000 branded vans, an air operation of roughly 110 aircraft, more than 1 million deployed robots, the software that coordinates them, and a trained workforce of more than 1 million that no amount of capital could quickly reproduce. This approach yields the highest figure and overstates realizable value, because no buyer pays to rebuild what can be bought.
+The Revenue-Multiple Approach
+The revenue-multiple approach yields the lowest figure and understates value in the opposite direction. The Delivery Network earns estimated external shipping revenue of $31.1 billion. This lowballs the value because it prices only what the Delivery Network bills to outside parties and ignores the far larger volume it carries for Amazon's own retail operation at no market charge.
+
+
+The Going-Concern Approach
+The going-concern approach reconciles the two and is the basis this proposal adopts. It values the network on its full throughput priced at market rates, not on the slice of revenue it currently collects externally. Under the long-term service agreement set out later in this chapter, the Delivery Network would bill Amazon retail at regulated market rates for the volume it moves, which today is carried internally and unpriced. Regulation here governs the form of the rate, not its level: a published, non-discriminatory schedule benchmarked to prevailing market prices. The moment that volume is billed, the network's revenue base would expand several fold, and the going-concern value would rise accordingly. This basis prices the network as the operating business it would become under public ownership.
+Fair Market Value
+On that basis, fair market value falls in a range of approximately $150 billion to $250 billion, with a working midpoint near $200 billion. Publicly available comparable numbers support this range. Because the perimeter excludes warehousing, freight forwarding, cross-border carriage, and commercial freight, the comparison is like-for-like: what would be valued is the same domestic parcel business UPS and FedEx are in, at larger volume. The Delivery Network already moves more parcel volume than UPS, and UPS is worth near $92 billion. A network larger than the largest incumbent (and growing), should be valued above it, which places a floor over $92 billion. A midpoint near $200 billion prices the network at roughly 2.2 times that largest comparable. 
+The assumption that keeps the figure from running higher: unlike UPS and FedEx (valued near $78 billion following its spin-off of FedEx Freight on June 1, 2026), this network has never had to cover its own cost of capital as a standalone business, and a disciplined buyer prices the risk that its margins look different once it pays its own way.
+Why The US Should Not Acquire Retail or Third-Party Seller Services
+The Infrastructure Distinction
+The United States distinguishes between the routes commerce travels and the commerce itself. The government builds and owns post roads, and private merchants carry their goods along them; it dredges and maintains rivers, and private freight moves on the water; it finances the Interstate Highway System, and private trucks and private stores conduct the business made possible. In short: the public provides the right-of-way, which private parties use to buy and sell. No one asks whether a federal highway makes the government a trucking company.
+Deliver America would bring the Delivery Network to the public side of that equation. The government would own the network that moves the goods and would have no part in selling them.
+Including the marketplace would place the federal government in direct commercial competition with Walmart, Target, every small retailer, and every rival marketplace in the country, setting prices and stocking shelves against private merchants who have no comparable backing. Deliver America explicitly does not propose this. 
+Is This Communism?
+No. 
+The charge that public ownership amounts to Communist capture has little purchase against a government that owns the road and leaves the selling to private interests. Infrastructure in public hands is the ordinary American arrangement: the postal system; the highways; the air traffic control system; the ports, locks and dams, etc. Confined to logistics, the proposed acquisition stays on the side of the line the United States has occupied since its founding.
+Legal Encumbrance Questions 
+Amazon.com, Inc. is the defendant in two active antitrust proceedings concerning the same underlying conduct, one a federal consumer class action and one a state enforcement action, both set for trial in 2027.
+The first is De Coster v. Amazon.com, Inc. (W.D. Wash.). Filed in 2021 and certified on August 6, 2025, it covers an estimated 288 million consumers, which class counsel call the largest class ever certified in the United States. The claim arises under Section 1 of the Sherman Act. Plaintiffs allege Amazon charges third-party sellers fees well above competing marketplaces, then bars them from pricing lower elsewhere, so the cost reaches the consumer. The court found common proof that Amazon's policies function as a platform most-favored-nation restraint, barring a seller from undercutting its Amazon price on a competing site. Sellers who price lower elsewhere can lose the access to Buy Box, have shipping suspended, or face removal. Plaintiffs' economic experts estimated the conduct affected roughly 288 million consumers across 34 billion transactions. The class period runs from May 26, 2017; consumers may opt out until August 31, 2026; trial is set for June 14, 2027, seeking treble damages and injunctive relief.
+The second is California v. Amazon, filed by Attorney General Rob Bonta in 2022 in San Francisco Superior Court under state antitrust law. On April 20, 2026, Bonta announced the public release of evidence his office called proof of an illegal price-fixing scheme. The unredacted filing describes communications in which Amazon pressed vendors to raise prices on competing retailers, among them Walmart, Target, and Best Buy. A hearing on the state's preliminary injunction is set for July 23, 2026, and trial for January 19, 2027.
+Structural Relief
+Going forward, the Deliver America acquisition could remove the fulfillment-access lever that gives California v. Amazon much of its force. That prospective structural relief, of the kind the government's injunctive actions seek, could retire Amazon's continuing exposure on this conduct regardless of how the existing claims resolve.
+The disputed policy works through penalties Amazon imposes on a seller who prices lower on a competing platform. Those penalties draw on two separate powers. The first is control of fulfillment: a seller who loses Amazon's fulfillment access loses the means to deliver. The second is control of demand: Amazon's marketplace holds the dominant share of online marketplace sales, about 72% by the plaintiffs' estimate, such that removal from the platform severs a seller from where the buyers are.
+Public ownership would affect the first power directly. A network owned by the Deliver America Authority and operated at regulated, non-discriminatory rates would serve every shipper on equal terms. A seller who ships through it would no longer depend on Amazon to deliver and would no longer forfeit fulfillment by pricing lower elsewhere. The most coercive of Amazon's levers would be neutralized by the acquisition itself.
+The second lever, control of demand, is not directly addressed by Deliver America. Buy Box suppression and deplatforming could persist. Public acquisition of the Delivery Network could weaken this lever indirectly, however: because fast, reliable Prime delivery is part of what holds shoppers to Amazon, a public network offering comparable delivery to every platform lets competing sites match it, and as they approach parity the cost of losing Amazon falls.
+The proposed acquisition removes the fulfillment lever outright and erodes the demand lever over time, achieving prospectively much of what the Federal Trade Commission and California enforcement actions seek. Whether that relief is sufficient, in the sense the antitrust cases use the term, is beyond the scope of this proposal.
+The Anchor Customer
+If Deliver America is successful, Amazon retail would become the largest customer of a network it no longer owns. Amazon’s Distribution Network was built to move Amazon's own goods. If the Distribution Network becomes part of the USPS, Amazon retail's volume is likely to remain its largest source of demand for the foreseeable future. A customer of that scale and steadiness is a foundation to build on.
+A long-term service agreement would commit Amazon retail to the USPS Distribution Network through a transition period, perhaps 5-10 years, with a volume commitment agreeable to both parties. Rates would follow a published schedule that declines with volume and applies to every shipper. Amazon would occupy the most favorable tier because of the volume it moves, not because of preference; any shipper at the same volume would receive an identical rate. Amazon, having handed off the capital and operational weight of running its own network, would keep a mature carrier it can rely on without the cost of sustaining it. 
+4. Workforce Transformation
+Documented Current Conditions
+The strongest evidence of warehouse conditions is Amazon's own injury data, reported to the Occupational Safety and Health Administration and analyzed by a Senate committee in December 2024. On the company's reported figures, its warehouses recorded injuries more than 30 percent above the warehousing industry average in 2023, ran at nearly twice the industry rate over the preceding 7 years, and exceeded the average at more than two-thirds of facilities.
+The pace that produces those injuries is set and enforced by software. Amazon's system logs the interval a warehouse worker spends not scanning items as Time off Task, and by the company's own account the system can generate a warning or a termination from accumulated Time off Task without a supervisor's review. Amazon has separately patented a wristband designed to track a warehouse worker's hand and arm movements and direct them toward inventory bins in real time. Delivery drivers face a comparable structure: many partner-firm drivers are required to run a monitoring application on their phones that records vehicle location, speed, braking, and, in some documented cases, in-cab video, feeding into performance and disciplinary decisions. Four states now require warehouse employers to disclose production quotas and the discipline attached to them. 
+A workforce paid at these levels is also on record as a workforce the public is already partly supporting. The Government Accountability Office found Amazon among the larger employers of Supplemental Nutrition Assistance Program and Medicaid recipients in the states it examined, at a time when fewer than 10 percent of aid recipients nationally worked for a public-sector employer of any kind.
+These same roles are marketed heavily to one population in particular. Amazon has built a large, public recruiting apparatus around veterans and military spouses, explicitly framing warehouse and driving work as suited to people trained to make fast decisions under pressure. Amazon's own director of military affairs has stated publicly that a military spouse relocates roughly seven times more often over a career than a civilian spouse, and that many military spouses leave the company when a service member receives relocation orders; the company built an internal retention program, Project Juno, in response. 
+Clearly, Amazon already understands the advantages of a workforce with publicly funded benefits. 
+
+
+
+
+The Delivery Workforce
+Most last-mile delivery runs through Delivery Service Partners, independent firms operating across the United States whose drivers are their W-2 employees, not Amazon's - one contractual layer removed from the network they serve.
+A separate program, Amazon Flex, engages drivers who use their own vehicles to deliver packages in blocks booked through an app. Amazon classifies these drivers as independent contractors. State authorities have rejected that classification, however. The Virginia Employment Commission found that Amazon had misclassified its Flex drivers, who for unemployment-insurance purposes were employees rather than contractors; the Virginia Court of Appeals upheld that finding in 2023, and the Supreme Court of Virginia left it in place in 2025. The Wisconsin Supreme Court reached the same conclusion under that state's law.
+The benefits and protections for these workers depend on which entity employs them and on hours worked. Full-time warehouse staff receive Amazon coverage. Drivers employed through partner firms are covered by those firms, so coverage varies. Flex drivers, classified as contractors, receive no employer coverage at all. 
+None of these workers hold the standing of federal postal employment: enforceable safety standards, a grievance process, collective bargaining, statutory wage floors, and a path to a career position with full benefits. Extending that standing would be the first consequence of acquisition.
+The Overnight Transformation
+On the day the acquisition closes, the workforce of the Delivery Network that is directly employed by Amazon would become federal employees under the Deliver America Authority. Operations would continue unchanged, with the same workers reporting to the same facilities and running the same routes the following morning. Operational integration would proceed on the schedule set out in Chapter 7.
+Career vs. Non-Career
+Federal postal employment is structured in two tiers. Career positions carry the full federal package of benefits. Non-career positions carry a more limited set of benefits and a defined path to career status. The allocation of the incoming workforce between the two tiers, and the fiscal consequences of that allocation, are discussed later in this chapter.
+The package attached to a career position includes health coverage, enrollment in the federal retirement system, statutory wage floors, a grievance and arbitration process, and collective bargaining. It also includes a protection particular to postal employment: while most federal agencies are covered by an internal safety program, The Postal Employees Safety Enhancement Act of 1998 applies the Occupational Safety and Health Act to the USPS in the same manner as to any private employer. Before that Act, the Postal Service was exempt from those private-sector provisions. Workers now covered by OSHA as private employees would lose no safety standing.
+The delivery workforce would reach federal employment by a different route than the directly employed. It is composed of two groups: the larger group works for Delivery Service Partners (DSP), the independent firms that run Amazon's delivery routes under contract; those drivers are the firms' employees, not Amazon's. The smaller group is engaged through Amazon Flex and classified as contractors, the classification the Virginia and Wisconsin authorities rejected in favor of employee status. 
+It is possible that many current Flex drivers occupy that role specifically for its flexibility and do not seek full time government work. For these, and other individual contractors, it may be reasonable to offer non-career positions inside the USPS, analogous to the seasonal positions that already exist. 
+Precedent
+There is a 21st century precedent for rapid conversion of a large contract workforce into federal employment. Congress passed the Aviation and Transportation Security Act on November 19, 2001, setting a one-year deadline for federal officers to take over passenger and baggage screening at every commercial airport in the country. The first airport, Baltimore/Washington International, converted to federal screening on April 30, 2002. All 429 commercial airports had converted by the November 19, 2002 deadline, and the resulting federal screener workforce exceeded 40,000 employees, replacing roughly 16,500 private contract screeners.
+A single statute converted the function nationwide. The government did not renegotiate with each of the hundreds of private screening companies operating at individual airports; at each airport, on a set date, the private contract ended and a federal screening force took its place. The relevant precedent: government can quickly convert a function of this kind, by statute rather than by thousands of separate agreements.
+The individual employment guarantee is where the enabling legislation for Deliver America might differ by design. TSA terminated the private screeners at each airport when their contract ended, then ran individual screeners through a competitive assessment, background investigation, and citizenship check before they could join the federal workforce. Many did not pass or did not reapply, and the government anticipated meaningful attrition in the process, particularly at larger airports. The Department of Labor provided transition assistance to the screeners the conversion left behind.
+Deliver America proposes to borrow the mechanism, a single statute converting the function nationwide on a defined schedule, without the competitive rehiring. The contracted delivery workforce would convert as a class into the two-tier structure described above, on a defined timetable, without reopening each underlying contract and without requiring any individual to reapply for their own job. 
+One special case exists: the roughly 4,400 owners of Delivery Service Partner firms who operate the businesses rather than work inside them as employees. Enabling legislation could offer each owner a choice. An owner could accept compensation for the terminated contract, covering the unexpired term, vehicles, and other assets, and exit the business. Or, an owner could instead apply for a station-level supervisory role in the new structure, since the dispatch, route assignment, hiring, and compliance work a DSP owner already does will still need to be done. The mix of outcomes that would follow, some owners exiting, others converting into federal supervisory positions, resembles what happened to the private security firms after TSA federalization, where some closed out entirely and others found a continuing role through the Screening Partnership Program.
+Sidebar: It is worth noting that a meaningful share of Flex drivers are neither US citizens nor permanent residents, which would disqualify them for USPS employment. Expedited Naturalization in exchange for a period of service, as with the US Armed Forces, would make these roles very desirable for aspiring Americans and incentivise a committed corps of drivers. Deliver America does not explicitly make this recommendation as of this draft, but it’s interesting to think about. 
+Cost Modeling
+Federalizing the workforce would change its cost in two ways: the benefits attached to a federal position, and the effect of statutory wage floors on the lowest-paid roles. 
+Benefits are the larger factor. The Bureau of Labor Statistics puts benefits at about 30 percent of total compensation in private industry and about 38 percent in state and local government, and a federal package sits at the upper end of that range.
+That benchmark is a gross figure, and it overstates the added cost for two reasons. Amazon already pays wages and provides benefits to its directly employed workers, and the partner firms already cover many of their drivers, so the cost that matters is the difference between the federal package and the compensation these workers already receive, not the federal package. The two-tier structure governs the increment: a career position carries the full package, a non-career position less. What federalization adds per worker hinges on where the worker enters and on what the worker is paid today.
+For that reason the total cannot be fixed from public data. It depends on the current compensation of a workforce whose carve-out financials do not yet exist, on the split between career and non-career tiers, and on the size of the workforce as automation reduces it over the transition. 
+Appendix B models the total across conservative, base, and optimistic cases rather than resting on a single number. The cost would fall where any carrier's labor cost falls, inside an operating business that bills its throughput at market rates. The question is whether operating revenue covers labor cost, which Appendix C takes up. 
+An offset runs the other way. Workers placed on federal wage floors and federal benefits draw less on public assistance, a cost other parts of government now carry. The scale of that offset, and the net after it, belong to the fiscal case in Appendix C.
+Pension and Retiree Health Obligations: An Honest Accounting
+The Postal Service runs two retirement systems, and the difference between them shapes the acquisition. The Civil Service Retirement System (CSRS), a defined-benefit plan closed to anyone hired after 1983, holds the largest legacy obligations. The Federal Employees Retirement System (FERS) covers everyone hired since. The incoming workforce would enter FERS as new hires. 
+The legacy problem is pretty serious. The Government Accountability Office reported the Postal Service's unfunded CSRS liability at about $60 billion at the end of fiscal year 2024, and its unfunded FERS liability at about $46 billion, the latter swollen by payments the agency skipped. The Office of Personnel Management sets the pension amortization payments under federal retirement statutes; the agency controls neither the assumptions nor the schedule, and the payment swings sharply year to year. Other federal agencies receive Treasury or appropriated funds for these obligations; the Postal Service must cover them from operating revenue. 
+The 2022 Postal Service Reform Act repealed the retiree-health prefunding mandate, canceled the past-due prefunding, and folded postal retiree health into Medicare, so that reform is complete. What still requires companion legislation, with or without this acquisition, is CSRS reallocation.. 
+As automation shrinks the workforce, the base paying in would fall while early-cohort obligations accrued, but FERS funds each benefit as it is earned, and the defined-contribution Thrift Savings Plan holds individual accounts that leave nothing collective behind. The Postal Service's current unfunded FERS liability came from skipped payments, and an operating business billing throughput at market rates could make payments the current USPS cannot. 
+Recommendations
+The legacy CSRS liability, including the disputed allocation, should be flagged as a pre-acquisition federal matter for the Treasury and the Office of Personnel Management. The incoming workforce should enter FERS as funded by law, with contributions kept current. The reallocation that 2022 left unfinished should be completed, and a share of the Automation Dividend (Chapter 5) could be dedicated to retiree obligations. Deliver America would not solve the legacy pension and retiree-health problem, which predates it and needs its own legislation. What it would do is add its workforce to the funded system and bring the operating revenue that lets those obligations be met.
+5. The Automation Dividend
+When a worker’s task is automated, the labor cost of that task falls. A facility that needs fewer people to move the same volume of packages costs less to run, and the reduction shows up as margin, moving upward to the owners who automated the job away.
+If the Distribution Network moves into public hands, the destination of money saved via automation would become a governance decision, made through the board of the Deliver America Authority, rather than a return calculated for Amazon shareholders. We call that savings the Automation Dividend. 
+The Automation Dividend could potentially fund five things:
+1. Accelerated repayment on the American Commerce Bonds that finance the acquisition
+2. A Worker Transition Fund tied to workers whose specific roles are eliminated
+3. Rural service expansion under the universal service mission
+4. Reduced shipping costs for businesses and households served by the network, and 
+5. Continued operational improvement at USPS as the two systems integrate.
+For purposes of this paper, we estimate the dividend pool at $20 to 24 billion annually at maturity. This foundations of this estimate, the legislative mechanism that would enact it, and the potential impact of automation on the Delivery Network’s workforce are the subject of an upcoming companion paper in Q3 2026, available at DeliverAmerica.org
+6. Acquisition Structure
+Deliver America proposes a purchase of assets carved out from the corporate entities that hold them today, transferred to public ownership along with the workforce that runs them. Chapter 3 set out what falls inside that perimeter and what it would be worth. 
+Deliver America does not propose to buy Amazon.com, Inc., a controlling interest in Amazon, or shares in any company. The target is a functional bundle, carved out from Amazon.com, Inc. and its subsidiaries that hold them today. 
+The acquisition would be negotiated, and it would be priced at fair market value. Chapter 3 estimates that value in a range of roughly 150 to 250 billion dollars on a going-concern basis, with a working midpoint near 200 billion. The proposal does not seek to acquire the network below that value through the pressure of the state. It seeks to pay what the network is worth and to fund the payment as described below.
+While the federal government can use eminent domain to acquire private property for public use, (especially for the post office), a negotiated purchase is preferable in every way that matters. A negotiated sale would avoid years of litigation and would keep the network intact and operating through a transition. Further, it would preserve the possibility, developed in the following sections, that the seller has his own reasons to come to the table. 
+The Transaction Framework
+American Commerce Bonds
+The negotiated price would be financed, not appropriated. Deliver America proposes to raise the purchase amount through publicly offered infrastructure bonds, sold to institutions and to ordinary citizens, and repaid over time from the revenue the network would generate. We call them American Commerce Bonds.
+The country has financed large public undertakings this way before. The Liberty and Victory bonds of the two world wars funded war efforts through direct public subscription, sold in denominations small enough for a household to buy. Municipal revenue bonds build and maintain ports, water systems, and airports across the country every year, serviced by the fees those assets collect rather than by the general tax base. American Commerce Bonds extend that tradition: a public asset, financed by those willing to lend against its revenue, repaid by what it earns.
+Bonds would be preferable to direct appropriation for reasons both structural and political. Structurally, they would tie repayment to the asset - there would be no line in the federal budget reading "give the Deliver America Authority billions of dollars.” The debt would be serviced by the network's operating revenue on a fixed schedule, insulated from appropriations fights. Politically, an appropriation of this size would be difficult to pass and easy to attack. A bond issue is an investment that pays out on a schedule the asset's earnings can meet, not a tax.
+Who purchases the bonds actually matters. A bond holder in the Delivery Network has a stake in the network's success and real ownership of the outcome. War bonds were sold partly for the money and partly to give millions of people a personal share in a national effort. American Commerce Bonds could do the same: build a constituency for the network's success at the moment of its financing, distributed across the individuals and institutions who invest. 
+The structure itself, the term, the interest rate, the repayment schedule, and the mix of institutional and retail offerings, would be set in the enabling legislation and modeled against the revenue scenarios developed in Appendix C. 
+The Philanthropic Delta
+In Chapter 3, we estimated the fair market value of the Distribution Network near 200 billion dollars on a going-concern basis. If Amazon sells its assets at fair value, every shareholder would receive what the assets are worth at a defensible price.
+The price the public pays could be lower than what the network commands in an open sale, however. Such a discount could come from one shareholder, at his own discretion and out of his own holdings. Jeffrey Bezos holds roughly 8.8 percent of Amazon.com, Inc. His proportional interest in a 200 billion dollar sale of these assets would run to something on the order of 15 to 18 billion dollars. Rather than realize that interest Bezos could, if he felt like it, contribute shares of his own, at equivalent value, into the transaction. The public could apply that contribution against the purchase price. Because the shares contributed would be his and no one else's, the reduction would carry no claim on another shareholder's interest and would raise no question of corporate value. Structured as a charitable contribution, it would be a gift in the sense the tax code uses the word.The effect would be to bring the public's financed price toward 183 billion dollars against assets worth closer to 200 billion. A single contribution of that size would stand among the largest individual charitable acts on record. 
+What's In It for Amazon?
+Every shareholder would be paid in full at fair market value, on the order of $200 billion on a going-concern basis. 
+For the company itself, the transaction would convert a capital-intensive division into a large cash payment and a long-term service contract. Amazon Logistics carries the physical plant, the vehicle fleet, the injury rates, and the wage and classification litigation that come with employing more than a million people directly and through contractors. A sale would move all of that off Amazon's books at a fair price, while a long-term anchor customer agreement would preserve the delivery service Amazon's retail business depends on, without Amazon continuing to own, staff, or defend the infrastructure behind it.
+The timing also matters. Amazon faces active antitrust litigation with a trial date in 2027. Selling now, on terms Amazon would help negotiate, would put the company in a materially stronger position.
+Capital freed by the sale, and management attention no longer spent operating or defending the logistics division, could be redirected to the businesses generating Amazon's actual margin: AWS, advertising, and the AI infrastructure buildout the company has prioritized in every recent earnings call. A logistics network built to move one retailer's parcels is a mature, capital-heavy, comparatively low-margin asset next to those businesses. Selling it at a fair price would be a legitimate capital allocation decision on its own terms.
+Sequencing and Transition
+The transfer of the directly employed workforce into federal employment would happen at closing, on a single day. The integration of the network with the Postal Service would happen over months.
+At closing, ownership of the assets would pass to the public and the workforce would convert to federal employment under the Deliver America Authority as described in Chapter 4. The morning after closing, the same workers would report to the same facilities and run the same routes.
+Operational integration would follow on the schedule Chapter 7 develops: selective at first, joining Postal Service and network infrastructure where they complement each other, and fuller over time as the two systems merge. The network would keep running throughout. Nothing about the transfer of ownership would require the network to pause, reorganize, or degrade service while the longer work of integration proceeds.
+The word "phase" in this proposal refers to the pace of operational integration, not to a schedule of buying the network in pieces. The Deliver America Authority would take operational control at closing and would hold it permanently. The governance section that follows describes what kind of body it would be.
+Governance
+The acquired network would become a new department of the United States Postal Service, the way processing, delivery, and retail are now, answering to the Postmaster General. It would not be a separate corporation standing outside the Postal Service, and it would not replace the Postal Service.
+The body running the new department would carry the operating weight of the enlarged institution. Its concerns would be concrete ones: how a Postal Service that has absorbed more than a million new workers and taken on service of the American Commerce Bonds would budget and plan against its enlarged revenue, and how the network itself would run from one day to the next. These are management questions, and would be answerable by the people running the network rather than Congress.
+Congress would charter the new department, set its mandate, and retain oversight of whether that mandate is met. What the structure would keep at a distance is day-to-day operational control. The department would be built to keep the line between mandate and management clear. Congress would set the mission and review the results. The Postmaster General and the department would run the network.
+The enabling legislation would create the department, authorize the American Commerce Bonds, and convert the workforce to federal employment as a class. A single bill could establish the department, the financing, and the workforce conversion together, rather than leaving any of the three to a later and less certain vote.
+Some of what the new department might need is already provided by the USPS. The Postal Service can issue debt to the Treasury at favorable rates, can negotiate volume-based service agreements subject to regulatory review, and from 2022 can offer certain non-postal services to raise revenue.
+Who would appoint the leadership of the new department, and through what process? The Postal Service's own Board of Governors, appointed with Senate confirmation and structured to limit any single party's control, offers one starting model. 
+7. The Transition Plan
+This chapter is the most speculative of any in the proposal. What follows here are not firm recommendations. Here we flag what we believe might be reasonable milestones and timelines. Analysis and feedback from industry experts will be necessary to craft a transition plan. 
+Practical Constraints
+Ownership transfer of routing software, warehouse management systems, and fleet dispatch tools that have run continuously for a decade carries real risk. Not every facility in the Distribution Network is owned outright. Some operate under lease, and the acquisition would need to sort out which facilities transfer as owned real estate and which require new lease arrangements or renegotiation with third-party landlords. Internal communications would need to scale to accommodate a new department and its personnel. Further complications and "unknown unknowns" will surely surface. A phased schedule will create a roadmap for USPS to absorb that complexity without degrading service quality.
+Principles
+Continuity of Service is Paramount. The USPS and Amazon are both nationally recognized brands, and user expectations are high. While the USPS is appreciated for its legacy, Amazon has distinguished itself for its ingenuity. Both are known for their reliability. A central goal of this proposal is to maintain those standards throughout the acquisition process. Delays, errors, and customer confusion are unacceptable.
+Think Slowly, Act Quickly. Extended timelines create room for uncertainty and dissipation of resources. Deliver America should be approached with the qualified rigor demanded by major public works projects, national security, and economic stability. By the time Congress acts (hopefully sometime between 2028 and 2030), no part of the transition plan should be TBD.
+Plan For Success, and Learn From It. This proposal is an invitation to policy, logistics, and technology experts, in cooperation with the public, to build a plan that is executable the day it is ratified. Advances in transportation, automation, communication, and energy will continue to occur alongside acquisition and integration. The Deliver America Authority should include subject matter experts, including rank and file USPS and Amazon workers, who can model the impact of these gains and update the Transition Plan accordingly.
+The phased schedule that follows is built to hold to these three principles.
+Day One
+On the day the acquisition closes, the Distribution Network would pass permanently into public ownership under the Deliver America Authority.
+Federal employment status and the benefits package Chapter 4 describes, health coverage, enrollment in the Federal Employees Retirement System (FERS), statutory wage floors, and Occupational Safety and Health Administration (OSHA) enforcement, would take effect immediately for the directly employed workforce.
+The DSP transition mechanism, distinct from direct-employee conversion because DSP owners are small business operators rather than employees, would need to be designed and negotiated with the DSP community prior to day one, following the mechanism the Transportation Security Administration's 2001 to 2002 transition established as precedent. 
+The routing software would keep directing the same trucks along the same routes it directed the day before.
+The First 12 to 18 Months: The Continuity Phase
+Existing management would remain in place, with articulated career trajectory plans: some would stay, some would leave, and the Deliver America Authority should track those plans accordingly. This acquired layer of leadership would report to the Postmaster General, or to whomever the Postmaster General deputizes inside the Deliver America Authority. Department leadership, appointed under whatever process the enabling legislation settles on, would need to be in place early enough to oversee the following: 
+The audited carve-out financials Chapter 3 flags as unavailable from public data, if still incomplete, would be confirmed within this time frame, establishing which facilities and fleet the network owns outright, which operate under lease, and the depreciation schedule of the robotics fleet. 
+Intellectual property licensing agreements will settle which systems transfer outright and which stay licensed from Amazon. The software layer is less straightforward: routing algorithms, warehouse-management systems, and fleet-coordination tools currently feed the same inventory forecasting, demand planning, and order routing systems Amazon retail uses to run its marketplace, so severing them would mean defining exactly where the Delivery Network's software ends and Amazon’s retail and supply chain tools begin, a boundary the licensing agreement would draw. The long-term service agreement with Amazon retail would take effect, locking in the volume commitments and the non-discriminatory rates.
+Internal communications systems would need to extend to the USPS’s expanded personnel without creating confusion about who reports to whom during the handoff; the requirements for which should be finalized during this period.
+Months 18 to 36: The Integration Phase
+A unified technology platform would begin development. Tracking, routing, and customer-facing systems that ran as two separate stacks through the Continuity Phase would merge on a schedule set by technical teams doing the work, rather than one fixed by statute.
+Physical rebranding, new signage and updated vehicle liveries, would begin in this window too, rolling out gradually as equipment reaches the end of its service life. A wholesale rebrand that pulls working vehicles and functioning facilities out of service to reskin them is not the plan.
+Labor relations would mature in parallel. USPS employees work under decades of collective bargaining relationships with the American Postal Workers Union (APWU) and the National Association of Letter Carriers (NALC). By year three, collective bargaining recognition for the newly converted workforce would move from design into practice, with the two legacy workforces operating under one shared framework. These terms would be negotiated with the APWU and NALC.
+The anchor customer relationship with Amazon retail would mature in this window as well, alongside the network's opening to other shippers at published, non-discriminatory rates. Third-party volume would grow from the initial group of shippers who join once the network opens toward the broader market.
+Rural service expansion should be measurable by this point: delivery speed and reliability in rural service areas would move toward parity with what customers in dense metropolitan areas already receive, using the routing technology and fleet density both networks bring to the merger.
+Year 3 and Beyond: Full Consolidation
+By year three, the Distribution Network and USPS would operate as a single network under the Deliver America Authority. The two labor forces that operated in parallel through the first three years would combine into one workforce, and the systems that ran alongside each other during the same period would consolidate into one technology platform. Branding would be the last piece to finish changing.
+The Automation Dividend could be realizable during this period. As automation reduces the network's headcount needs against its growing volume, a defined share of the resulting savings would begin flowing to bond repayment, the Worker Transition Fund, and the other allocations on the pace automation occurs.
+The long-term service agreement with Amazon retail would continue on the term set at acquisition. Amazon retail would likely remain the network's largest customer, paying the same published rate available to any other shipper of equivalent volume under the non-discrimination provision.
+Risk Factors and Mitigation
+Not an exhaustive list. 
+Technology preservation. The Distribution Network's routing algorithms, warehouse management systems, and the institutional knowledge held by the engineers who built and maintain them make up much of what the network is worth acquiring. Retention terms for key technical staff through the Continuity Phase, in addition to well-organized IP licensing, would address this directly: the network would keep access to the people and the systems it needs without a rushed technical handoff.
+Culture and operating cadence. Amazon's logistics operation runs on a decision-making speed that federal agencies are not generally built to match, and a mismatch between the two risks slowing the network down. Placing the network inside a self-funding department structured to make independent operating decisions is not sufficient: leadership should draw on subject matter expertise who understand how the network has historically operated. 
+Political interference. Congressional oversight of a network this size is appropriate. Congressional micromanagement of its daily operating decisions is not. Congress would charter the Deliver America Authority and set its mandate, then review whether that mandate is met; the department itself would run the network day to day. 
+Labor relations. The incoming workforce and the existing USPS workforce would arrive at this merger from different labor histories. The converting Distribution Network workforce, largely without union representation before conversion, would enter a federal labor relations framework for the first time, while USPS employees would already be operating under established relationships with the APWU and NALC. The risk to manage is timing: running two disconnected labor relations processes longer than necessary would recreate the two-tier structure this merger is meant to eliminate, which is why one shared framework by year three is the target this proposal sets.
+Service continuity. A rural customer or an Amazon retail customer should notice nothing about their delivery service changing in year one, and the Amazon retail service agreement's volume commitments would give the network a direct commercial incentive to keep it that way. Integration work carrying any risk of visible service degradation, a merged tracking system or a consolidated sortation facility, for example, would proceed on the schedule the technical work requires rather than one set by statute.
+The anchor customer relationship. Amazon retail would be the network's largest customer and its former owner, a position that would carry more commercial leverage than any other customer The long-term service agreement would exist to manage that leverage by setting a defined transition term and volume commitments running in both directions, backed by a non-discrimination provision guaranteeing Amazon retail the same rate available to any shipper of equivalent volume. A gradual opening of Amazon retail's volume to competition from other shippers over the agreement's term would keep this relationship from settling into a permanent dependency in either direction.
+8. Political Architecture
+The Congressional Pathway
+Ideally we could make this happen with a single bill chartering the new department, authorizing the American Commerce Bonds, and converting the workforce as a class on the TSA model. 
+How do we get there?
+The postal reform coalition already exists. The Postal Service Reform Act of 2022 passed with substantial bipartisan majorities, assembled by members who worked the issue for years. Those members, their staffs, and the advocacy organizations that supported them constitute a working coalition that has already passed major postal legislation. 
+The committee map runs through panels holding postal jurisdiction and oversight, Senate Homeland Security and Governmental Affairs and House Oversight chief among them, with Commerce committees engaged on the carrier and rate questions and Appropriations engaged despite the bond structure, because members of those committees expect to be consulted on anything of this scale whether or not it spends appropriated money. Early staff-level relationships on those committees would matter more than early member endorsements.
+One companion measure belongs in or alongside the enabling legislation: the Civil Service Retirement System cost-allocation correction described in Chapters 4 and 8. The Postal Regulatory Commission and the Postal Service Office of Inspector General have both found the current allocation unfair to the Postal Service, at a scale of roughly $75 billion, and the finding has stood for more than a decade without action. A Congress chartering the new department could settle the old account in the same act.
+Natural allies are already seated. Rural-state members of both parties, the labor caucus and Postal advocates in both chambers have spent careers on the institution's survival. None of these members need persuading that the problem exists but might need persuasion with respect to this proposal. Their insights will likely improve it.
+By 2028, we hope to build a coalition, place the proposal before the public, and develop legislative text, so that the idea can be taken up by candidates from any party. 
+Opposition and Responses
+"The government can’t run anything." The Deliver America Authority is a self-funding department built to keep daily operations apart from the annual political process. It will be run by industry experts, not by Congress. The country has run public enterprises on commercial discipline before; the Tennessee Valley Authority has operated as a self-funding federal corporation for more than 90 years. 
+"This is socialism." The proposal would purchase assets at fair market value, through negotiation, financed by bonds sold to willing lenders and repaid from revenue. No property would be seized, no industry nationalized by force, and no private commerce displaced. 
+"It would kill Amazon." Amazon retail, Amazon Web Services, advertising, devices, and every other line of business will be untouched. Amazon would be paid roughly $200 billion at fair value for assets that consume enormous capital to operate, would shed that operating weight, and would retain guaranteed access to a mature carrier under the long-term service agreement. The company that emerges would be smaller in assets and lighter in capital intensity, with its most profitable divisions intact.
+"The price is too high." The price would be financed by bonds repaid from the network's own revenue, tested against a conservative growth scenario, accelerated by the Automation Dividend, and secured against an asset base worth $150 to 250 billion. The relevant question is not whether $183 billion is a large number. It is whether the asset's revenue carries the debt.
+"It gives government too much power." The proposal would bind the government's hands more tightly than Amazon's are bound today. The network would operate at published, non-discriminatory rates, serving every shipper on equal terms, under a statutory universal-service obligation. The acquisition would replace discretionary private power over the conduit of commerce with regulated public obligation.
+FedEx and UPS. Both carriers would have reasons to oppose. However, the status quo is not their friend either: both companies now compete against a vertically integrated rival that controls its own demand. Amazon has already passed both the Postal Service and the private carriers in parcel volume. A Distribution Network in public hands, billing published rates and favoring no marketplace, would be a more predictable competitor than the one they face now. The third-party access provisions would open volume to competitive dynamics rather than close it. 
+The De Coster litigation. Nothing in this document prejudges an outcome that belongs to the courts. The acquisition would be a purchase of assets that expressly declines to assume marketplace liabilities, leaving the litigation and any resulting exposure with the seller. Though the removal of the fulfillment lever might supply the structural relief plaintiffs seek, the case for Deliver America does not require Amazon to be found liable of anything.
+
+
+9. Recommendations and Next Steps
+The Legislative Vehicle
+The goal is a single enabling statute: one bill that would charter the new department within the Postal Service, authorize the American Commerce Bonds, and convert the workforce as a class on the TSA model. That bill should not be the second legislative act, not the first.
+The first should be a study act. Congress could direct an independent examination of the acquisition's premises before anyone is asked to vote on the acquisition itself: a commissioned valuation of the Distribution Network on the going-concern basis Chapter 3 sets out, an actuarial review of the workforce conversion Chapter 4 describes, and a financing analysis testing the repayment model in Appendix C against scenarios chosen by impartial analysts. The Government Accountability Office and the Congressional Budget Office exist for exactly this work, and a study act would be a modest ask for members not yet prepared to endorse the transaction.
+A study act would also discipline this proposal's own claims. Every figure in this document is offered with its basis shown so that an independent review could confirm, correct, or reject it. We invite review from all interested parties.
+The Window to 2028
+The remainder of 2026 belongs to public launch and discussion across this document, DeliverAmerica.org, and coalitions we build.
+ In 2027, the work should turn legislative and analytical. The De Coster and California trials are scheduled for that year, and whatever they decide, the country's attention will be on the structure of Amazon's power over commerce while they run. 
+By 2028, the proposal should stand as a developed framework with an independent study underway or complete, available to any candidate or platform committee looking for a serious answer on infrastructure, rural service, and automation.
+Once More, With Feeling
+To the policymakers, staff, analysts, and organizers who have read this far, thank you. We are looking forward to your feedback. We have 3 small asks:
+Engage the framework. Test the valuation, the workforce mechanics, the repayment arithmetic. What did we fail to consider?  
+Commission an independent study. A member of Congress could introduce the study act this year. A committee could request the GAO work without one. A foundation or university could fund an independent version tomorrow. 
+Begin the negotiation conversation. For people positioned to open a channel to Amazon decision makers, let’s talk.
+EX MANIBUS POPULI
+🤜📦🤛🏾 
+DELIVER AMERICA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix A: Full Financial Model and Assumptions
+This appendix assembles the financial model behind Chapters 3, 6, and 8 in one place: the valuation, the revenue scenarios, the bond structure, the debt service arithmetic, and the framework for the net public value calculation. Every figure is either sourced, or derived from sourced figures with the derivation shown, and every assumption is listed in the register at A.8 so that an independent reviewer could rerun the model with different inputs. 
+The governing limitation inherited throughout: the Delivery Network is a functional bundle rather than a reporting segment, Amazon publishes no carve-out financials for it, and this model is a public-data framework whose purpose is to be superseded by the audited numbers any binding transaction would require. This proposal presents the framework; the audit belongs to future independent study.
+A.0 Perimeter Note
+This revision aligns the model with the acquisition perimeter as drawn in Chapter 3. The Delivery Network would comprise the fulfillment, sortation, delivery, and domestic line-haul layer: the function that moves goods to American addresses. It would exclude Amazon Warehousing and Distribution (AWD), Multi-Channel Distribution (MCD), Amazon Global Logistics (AGL), Seller Export and Delivery (SEND), the Partnered Carrier Program (PCP), and Buy with Prime, all of which would remain with Amazon. Three model inputs require verification against that perimeter, entered below as items 19 through 21 in the assumptions register and marked in the sections where they bind. None of the 3 changes the model's structure; each could move a value inside its stated bracket.
+A.1 The Valuation
+Chapter 3 establishes the method; this section records the numbers.
+The valuation is a going-concern valuation: the asset base is priced as an operating system generating revenue, because that is what a buyer would receive and what a seller would demand payment for. The asset base comprises roughly [600+] US facilities per MWPVL and approximately [435 million] square feet of operational space, approximately 40,000 semi trucks, 30,000 delivery vans, 110+ aircraft, more than 1 million deployed robots, and the routing and logistics software that operates them.
+Clarification required (register item 19). The facility and square-footage figures predate a clean split by facility type, and some counted buildings may be AWD distribution centers that now sit outside the perimeter. MWPVL segments by facility type; the schedule needs re-pulling on the Delivery Network perimeter. The figures are bracketed pending that pull. The valuation range should be resilient to the correction, because going-concern value rests on delivery revenue rather than on square footage, and any shrinkage in the estate argues toward the lower half of the range, which would reduce the financed price and the debt service with it. The correction can only cheapen the proposal.
+The range is $150 to 250 billion, with a working midpoint near $200 billion, anchored 3 ways:
+* Revenue basis. External billings of [$31.1 billion] (2024) understate the network's earning power because they exclude the volume moved for Amazon retail without market charge. Amazon's total annual fulfillment and shipping spend of $194.3 billion indicates the scale of throughput the network handles. A going-concern buyer would price the network on full-throughput billings under the service agreement structure Chapter 3 describes.
+* Comparables. The perimeter makes this a like-for-like comparison of domestic parcel carriers. UPS carries a market capitalization near $92 billion; FedEx, following its June 2026 spin-off, near $78 billion. The Delivery Network moved more parcels in 2025 (6.7 billion) than the Postal Service (6.6 billion) and more than either private carrier, on a newer asset base with higher automation penetration and a demonstrated growth rate neither comparable has approached in decades. Because the perimeter excludes warehousing, freight forwarding, and supply-chain services, a critic can no longer object that the asset bundles businesses the comparables lack; what would be valued is the same business UPS and FedEx are in, at larger volume. A midpoint near $200 billion prices the network at roughly 2.2 times the largest comparable. Volume, asset age, automation, and growth each argue for a premium; the width of the range reflects honest uncertainty about how large a premium the negotiation would support.
+* Growth. The network's demonstrated trajectory (688 percent volume growth since 2018; 25.8 percent revenue CAGR, 2019 to 2024) supports a going-concern premium over static asset value.
+The midpoint functions as a negotiating anchor. The binding number would emerge from the negotiated process Chapter 6 describes, informed by the carve-out financials and the independent valuation the study act in Chapter 10 would commission.
+A.2 The Transaction Arithmetic
+Component
+	Figure
+	Basis
+	Going-concern fair market value (midpoint)
+	~$200B
+	A.1
+	Philanthropic contribution (delta)
+	$15–18B
+	Bezos's approximate [8.8%] beneficial interest applied to the going-concern value: 8.8% of $183–200B yields $16.1–17.6B; stated as $15–18B
+	Financed acquisition price
+	~$183B
+	Midpoint value less the delta
+	The delta is defined precisely: it would be Bezos's proportional interest in the sale, contributed by him alone from his own proceeds. Every other shareholder would be paid in full at fair value. Chapter 6 carries the fiduciary analysis. The model runs with and without the contribution: at the full $200 billion financed, annual debt service in A.4 rises by roughly 9 percent, and no conclusion in this appendix reverses.
+A.3 Revenue Scenarios
+The external layer is observable: [$31.1 billion] in 2024, growing 12.2 percent year over year, 25.8 percent compound annual growth from 2019 through 2024. The scenarios below project this layer, because it is the layer public data can support.
+Clarification required (register item 20). With the perimeter drawn, the composition of the external revenue line must be confirmed against Amazon's disclosures. If the reported figure blends parcel carriage revenue with AWD storage fees, MCD distribution fees or AGL freight charges, those components belong to businesses Amazon would keep, and the external layer re-bases from a corrected floor. The figure is bracketed pending that confirmation. The going-concern layer is unaffected either way, because it is defined as full domestic delivery throughput billed under the service agreement, a definition that already excludes the retained services.
+The going-concern layer is the full-throughput base: external billings plus the volume moved for Amazon retail, billed at regulated market rates under the long-term service agreement. This layer would be several times the external layer, as Chapter 3 establishes, and it is the base on which both the valuation and the debt service rest. No dollar figure is projected for it here, deliberately: sizing it requires the carve-out data. Where the model needs the going-concern layer, it uses the bounded statement that the layer is a multiple of the external layer, and tests whether conclusions survive at the low end of "multiple."
+Ten-year projections of the external layer, illustrative, from the 2024 base:
+Scenario
+	Growth assumption
+	Year 5 (external-equivalent)
+	Year 10 (external-equivalent)
+	Conservative
+	7% (roughly half the recent rate)
+	~$44B
+	~$61B
+	Base
+	12% (recent rate, held)
+	~$55B
+	~$97B
+	Optimistic
+	20% (below the demonstrated 25.8% CAGR)
+	~$77B
+	~$193B
+	Assumptions behind each: the conservative case assumes parcel-market maturation, no material third-party migration, and no expansion of neutral fulfillment services. The base case assumes the recent growth rate holds as third-party access offsets market maturation. The optimistic case assumes third-party adoption and neutral fulfillment compound on parcel growth; it is reported for symmetry, and nothing below relies on it. Appendix C, the standard the model must meet is closure under the conservative case.
+A note on the third revenue stream, aligned with the perimeter: what Appendix C describes as expansion beyond Amazon retail would consist of fulfillment and delivery services offered to all shippers at published rates, the service Amazon today sells as Multi-Channel Fulfillment. It would not include warehousing per se.
+A.4 The Bond Structure and Debt Service
+The American Commerce Bonds would raise the financed price of approximately $183 billion. Rate, term, and amortization schedule would be set in the enabling legislation and priced by the market; the model uses a 30-year full-amortization structure at 3 illustrative rates. Annual payment is standard annuity arithmetic, where (please forgive the shoddy formatting) 
+Payment = r*(principal) / (1 - ((1+r)^-n))
+Illustrative rate
+	Annual debt service (30-year amortization of $183B)
+	4%
+	~$10.6B
+	5%
+	~$11.9B
+	6%
+	~$13.3B
+	The working figure used in Appendix C, $10 to 12 billion annually with roughly $12 billion as the planning number, sits inside this table. At the full $200 billion (no philanthropic contribution), the 5 percent payment rises to roughly $13.0 billion; the structure holds at every cell in the table. If the A.1 re-basing settles the valuation in the lower half of its range, every figure in this table falls proportionally.
+A.5 Debt Service Coverage and Break-Even
+Coverage must be assessed against operating margin rather than gross revenue, and the operating cost structure of the carve-out is the model's largest unknown. The model therefore runs the test 2 ways and requires both to pass.
+Test 1, the stress floor. Suppose, contrary to the model's own structure, that only the external layer existed. Debt service of $11.9 billion against conservative-case external revenue would consume roughly 38 percent of gross billings in year 1, falling to roughly 20 percent by year 10. Against the known labor cost of the full network ($40 to 60 billion, Appendix B), external revenue alone could not carry both. The stress floor exists to put that mismatch on the page, because a critic who tests the $31.1 billion figure against the debt is testing a partial revenue picture against the full obligation, and the error should be visible here before it is made elsewhere.
+Test 2, the going-concern test. On the full-throughput base, debt service of $10.6 to 13.3 billion would represent a single-digit share of billings even at the low end of the multiple Chapter 3 establishes. The relevant question becomes whether operating margin on that base covers debt service after labor ($40 to 60 billion), the federalization increment ($4 to 12 billion, Appendix B), and network operating costs. Public reference points for parcel-carrier operating margins run in the high single digits to low teens. The perimeter strengthens the relevance of those reference points, since the acquired business would now be the same business the reference carriers run. The Delivery Network's automation penetration and the integration savings Chapter 7 describes would bear on where in that range it lands. The model's bounded claim, matching Appendix C: on a going-concern base a multiple of the external layer and growing under even the conservative scenario, an operating margin at the low end of the industry reference range would carry the debt service with room, and the Automation Dividend mechanism exists because margin is expected to widen over the term.
+Break-even. Under the base case, cumulative network revenue net of modeled costs would exceed cumulative debt service from the first full year of going-concern billing, with full repayment inside the 30-year term and pulled forward by whatever share of the Automation Dividend the enabling legislation directs to acceleration. The dividend pool is estimated at $20 to 24 billion annually at maturity (Forthcoming paper); the share allocated to bond repayment is deliberately unset, deferred to the companion paper per the Chapter 5 citation set, so the model treats acceleration as a bracket: each $5 billion per year directed to principal would shorten a 5 percent, 30-year schedule by roughly [7 to 8] years. Under the conservative case, the same result arrives later within the term. The scenario that breaks the schedule requires sustained absolute decline in national parcel volume, and the recovery position in that scenario is restructuring against an asset base independently valued at $150 to 250 billion.
+A.6 The Cost Side, Consolidated
+For the reviewer assembling the full ledger, the model's cost components and where each lives:
+* Existing network labor cost: $40 to 60 billion annually (Appendix B.4; supersedes the earlier $50 to 60 billion figure document-wide).
+* Federalization increment: $4 to 12 billion annually across scenarios (Appendix B.5; inherits the $29 per hour verification flag).
+* Debt service: $10.6 to 13.3 billion annually (A.4).
+* Network operating costs excluding labor (fuel, maintenance, facilities, technology): unmodeled pending carve-out financials; the largest open input, entered in the assumptions register.
+* Integration effects with the Postal Service network (Chapter 7): expected favorable, unquantified here; any savings are treated as upside rather than assumed.
+* Turnover context: Amazon's internally estimated $8 billion annual cost of turnover (confirmed secondary) is a cost the career-workforce structure would be expected to reduce; treated as upside rather than assumed.
+Clarification required (register item 21). The 1 million-plus workforce figure and the labor cost range derived from it should be checked against the perimeter: AWD and AGL staff would remain Amazon employees and belong outside both figures. The expected correction is small relative to the fulfillment and delivery population, and it runs in the model's favor, since it would reduce labor cost and the federalization increment together. Appendix B.1 and B.7 carry the same item from the workforce side.
+A.7 Net Public Value: The Framework
+Appendix C states the shape of the answer; this section records why the model declines to state a single net-present-value figure and what the eventual calculation would require.
+The components with a documented direction: assets received ($150 to 250 billion) against price financed (~$183 billion), with the delta as immediate equity; the foreclosed trajectory of Postal Service losses ($2.7 billion controllable annually on the current path); the public assistance offset (direction documented in GAO-21-45, magnitude deliberately unestimated per Appendix B.6); and the Automation Dividend stream ($20 to 24 billion annually at maturity, allocated across the Chapter 5 purposes). The components requiring verified inputs: the carve-out operating margin, the tier-split policy choice, the bond pricing, and the dividend allocation percentages.
+A defensible NPV calculation would discount the net cash flows at the long-term Treasury rate plus a risk premium appropriate to a revenue-backed federal instrument, over a horizon matching the bond term. With every unverified input set at its conservative end, the calculation's sign does not change, because the acquisition takes in more asset value than it finances and the debt is carried by the asset's own revenue. That bounded claim (the sign rather than the figure) is the one Appendix C states. The study act proposed in Chapter 9 would let institutions with subpoena-grade access to the financials produce the figure.
+A.8 Assumptions Register
+#
+	Assumption
+	Value used
+	Source status
+	1
+	External revenue, 2024
+	[$31.1B]
+	Sourced (Chapter 3 citation set); composition check pending, item 20
+	2
+	Revenue growth, recent
+	12.2% YoY; 25.8% CAGR 2019–2024
+	Sourced (Chapter 3 citation set)
+	3
+	Fulfillment + shipping spend
+	$194.3B
+	Sourced (Amazon 10-K)
+	4
+	Going-concern value
+	$150–250B; midpoint ~$200B
+	Derived (A.1); negotiating anchor
+	5
+	Bezos beneficial interest
+	~[8.8%]
+	Sourced;
+	6
+	Philanthropic delta
+	$15–18B
+	Derived (A.2)
+	7
+	Financed price
+	~$183B
+	Derived (A.2)
+	8
+	Bond rate
+	4–6% illustrative
+	Assumption; market-priced in fact
+	9
+	Bond term
+	30-year amortization
+	Assumption; set in legislation
+	10
+	Scenario growth rates
+	7% / 12% / 20%
+	Assumptions (A.3)
+	11
+	Going-concern multiple of external layer
+	"several fold"; unquantified
+	Structural (Chapter 3); carve-out dependent
+	12
+	Network labor cost
+	$40–60B
+	Derived (Appendix B.4); inherits $29/hr flag; perimeter check, item 21
+	13
+	Federalization increment
+	$4–12B
+	Derived (Appendix B.5); inherits flag
+	14
+	Carrier operating margin reference
+	high single digits to low teens
+	TO CONFIRM (carrier annual reports)
+	15
+	Automation Dividend pool
+	$20–24B at maturity
+	Derived (Chapter 5)
+	16
+	Dividend share to bond acceleration
+	unset; bracketed
+	Deferred to companion paper, deliberately
+	17
+	Non-labor operating costs
+	unmodeled
+	Open; carve-out dependent
+	18
+	USPS controllable loss
+	$2.7B (FY2025)
+	Sourced (USPS audited financials)
+	19
+	Facility count / square footage
+	[600+ facilities; 435M sq ft]
+	Sourced pre-perimeter; re-pull by facility type on the Delivery Network perimeter (MWPVL)
+	20
+	External revenue composition
+	parcel carriage assumed
+	TO CONFIRM: exclude any AWD, AGL, or SEND service revenue from the external layer
+	21
+	Workforce perimeter
+	1M+ assumed inside
+	TO CONFIRM: AWD and AGL staff excluded; expected small; favorable direction
+	A.9 Open Items
+* Assumption 14: pull specific UPS and FedEx operating-margin figures from annual reports for the citation set.
+* Assumptions 19 through 21: the perimeter verification set. Until the pulls come back, bracketed values hold, and every one of the 3 corrections runs neutral-to-favorable for the model: a smaller estate argues for a lower price, a cleaner revenue floor removes an overstatement before a critic finds it, and a smaller workforce reduces cost.
+* The A.3 table projects the external layer only; any future edit that presents those figures as total network revenue would reintroduce the error this model is built to prevent. The layered structure is deliberate and must survive revision.
+* Reconciliation: this appendix uses $40 to 60 billion for labor (per Appendix B) and the corrected delta arithmetic throughout; the Master Reference table updates noted in the Appendix B and Chapter 5 citation sets apply here as well.
+________________
+
+
+
+
+Appendix B: Workforce Data and Labor Cost Analysis
+This appendix carries the workforce data behind Chapters 4 and 5 and the cost modeling Chapter 4 defers here. It states what is known from public sources, shows the derivation of every estimated figure, and models the incremental cost of federalization across 3 scenarios. A caution governs the whole: the Delivery Network is not a reporting segment, no carve-out financials exist, and every aggregate figure below is a bounded estimate from public data, offered for testing and pending the audited financials any binding transaction would require.
+B.1 Workforce Composition
+The proposal's working figure is more than 1 million workers across the Delivery Network, carried consistently in Chapters 1, 3, and 4. The population divides into 3 groups with different employment structures.
+Directly employed workers. Fulfillment, sortation, and operations staff employed by Amazon.com, Inc. and its subsidiaries. This is the largest group and includes the warehouse workforce whose conditions Chapter 4 documents.
+Delivery Service Partner (DSP) drivers, approximately 275,000. These drivers are W-2 employees of the independent partner firms that run Amazon's delivery routes under contract. They are not Amazon employees and they are not independent contractors. Their compensation and coverage vary by firm; Amazon's published DSP program standards require health coverage meeting Affordable Care Act standards for drivers averaging at least 30 hours per week and at least 80 hours of paid time off for full-time drivers.
+Amazon Flex drivers, headcount unpublished. Flex drivers are engaged directly by an Amazon delivery subsidiary and classified as independent contractors. This is the population where the classification dispute lives: Virginia and Wisconsin authorities have found Flex drivers to be employees for state unemployment-insurance purposes, findings scope-noted in the Chapter 4 citation set. As contractors, Flex drivers receive no employer-provided coverage.
+Two open items attach to the composition and are carried in the consistency list at B.7: whether the Flex population is counted inside the 1 million figure, and the global-versus-US labeling of the DSP count.
+B.2 Turnover and Tenure
+The workforce the proposal would convert is defined as much by churn as by size. The figures below are confirmed through secondary coverage only; the primary New York Times pulls remain on the verification list.
+* Annual warehouse turnover of approximately 150 percent, meaning the hourly workforce turns over entirely in a matter of months on average. Reported in the 2021 New York Times investigation; confirmed secondary; primary pull TO CONFIRM.
+* Amazon's internal estimate of the annual cost of that turnover: approximately $8 billion (internal documents reported in 2022; confirmed secondary; primary pull TO CONFIRM).
+* The reported internal projection that the company could exhaust the available labor supply in some metropolitan areas, and the hires-avoided figure of 600,000 by 2033 associated with automation planning. Conflation guard, per the Automation Dividend citation set: the 600,000 hires-avoided figure and any headcount-reduction scenario that happens to land near 600,000 are different claims and must never be cited as one.
+Actuarial note: turnover at this rate produces a workforce with near-zero average tenure, which matters for the pension modeling in B.5. It also should not be projected forward unchanged. Career protections of the kind Chapter 4 describes would be expected to reduce turnover, and the attrition scenarios Chapter 5 defers to the companion paper must not hold 150 percent constant.
+B.3 Current Compensation Baseline
+The baseline for all cost modeling is what the workforce is paid now.
+Wages. Amazon has reported an average of $22 per hour for a customer fulfillment and operations job, and approximately $29 per hour with benefits included. This figure traces to a single regional news report (WHYY, Wilmington, Delaware, May 2025) describing a nationwide average. It must be confirmed against Amazon's own compensation disclosures.
+Benefits coverage divides by group: directly employed full-time workers receive Amazon coverage with day-1 eligibility; DSP drivers averaging at least 30 hours per week receive firm-provided coverage under the program standards above; Flex drivers receive none. The implied benefits load in the reported figures ($22 base against $29 loaded) runs near 24 percent of total compensation, below the private-industry average discussed in B.4, consistent with a workforce carrying substantial part-time, seasonal, and low-tenure hours.
+B.4 Aggregate Labor Cost of the Network
+No audited figure exists. The bottom-up derivation, shown in full:
+$29 per hour, loaded, multiplied by a 2,080-hour full-time year is approximately $60,300 per full-time-equivalent worker per year. Multiplied across the 1 million-plus workforce, the product is an upper bound near $60 billion annually. The true figure sits below the upper bound because a meaningful share of the workforce is part-time or seasonal and works less than a full annual schedule.
+Working range: $40 to 60 billion in annual labor cost. This is the range Chapters 5 and Appendix C use. It is the denominator against which the Automation Dividend pool ($20 to 24 billion annually at maturity) is sized.
+B.5 The Incremental Cost of Federalization
+Chapter 4 states the structure of the question: the cost of federalization is not the federal compensation package entire, because the workforce is already paid. It is the increment between the federal package and current compensation, applied per worker according to the tier the worker enters.
+The benefits increment. The Bureau of Labor Statistics puts benefits near 30 percent of total compensation in private industry and near 38 percent in state and local government, with a federal package at the upper end of that range. If the current workforce's loaded compensation runs near $29 per hour with an implied benefits load near 24 percent, then bringing a career worker to a federal-grade package at roughly 38 percent of total compensation, holding the wage constant, would raise loaded cost to roughly $35 to 36 per hour. The increment is roughly $6 to 7 per hour, or roughly $13,000 to 14,500 per career full-time-equivalent per year. Every input in that arithmetic is visible, and the first one carries the B.3 weakness flag.
+The wage-floor increment. Statutory federal wage floors would bind for some portion of the delivery workforce, particularly Flex drivers whose effective hourly earnings, net of vehicle costs, are not publicly established. This increment cannot be estimated from public data and is entered in the scenarios as a qualitative add carried by the conservative case.
+Scenario structure. The total increment depends on 3 unknowns: the career versus non-career tier split, the verified current-compensation baseline, and the size of the workforce over the transition as automation and attrition reduce it on the trajectory Chapter 5 describes. The scenarios vary those 3 inputs.
+Under the conservative case (high cost), the career tier takes roughly 70 percent of a 1 million-worker baseline, the full benefits increment applies to each career full-time equivalent, and the wage-floor add binds broadly across the converted delivery workforce. The incremental annual cost would run on the order of $10 to 12 billion.
+Under the base case, the career tier takes roughly half the workforce, with the non-career tier carrying a partial package on the Postal Service's own two-tier model, and headcount begins declining on the Chapter 5 attrition trajectory within the first years. The incremental annual cost would run on the order of $6 to 9 billion.
+Under the optimistic case (low cost), verified current compensation proves closer to the federal package than the single-facility figure suggests, the career tier phases in over the transition rather than converting at once, and headcount reduction runs ahead of schedule. The incremental annual cost would run on the order of $4 to 6 billion.
+What the ranges mean. Against the going-concern revenue base Chapter 3 and Appendix C establish, and against a $40 to 60 billion existing labor cost, an increment of $4 to 12 billion annually is an operating cost of a revenue-generating network, not an appropriated expense. The scenarios exist to show that the fiscal case in Chapter 8 survives the conservative case, which is the test that chapter sets for every model in this proposal. None of these figures should be published as findings; they are a framework awaiting the carve-out financials, and the framework is built so that verified inputs can replace estimated ones without changing the structure.
+B.6 Pension Mechanics and the Public Assistance Offset
+Pension entry. All converted workers would enter the Federal Employees Retirement System (FERS), the funded system that has covered new federal hires since 1984, with agency and employee contributions made from the first pay period. The conversion would add nothing to the legacy CSRS obligations The actuarial character of the incoming population matters here: a workforce that is young and short-tenured would contribute to FERS for decades before drawing on it, improving the system's near-term position rather than burdening it. The DSP and Flex populations, holding no prior federal contribution history, would enter FERS as new participants on the same terms.
+The offset. The Government Accountability Office found that Amazon was among the larger employers of SNAP and Medicaid recipients in the states it studied, while fewer than 10 percent of aid recipients worked in the public sector (GAO-21-45, November 2020; scope limited to the states studied, February 2020 data). The direction of the offset is therefore documented: workers moved to federal wage floors and full benefits would draw less on means-tested assistance. The magnitude is deliberately not estimated here. A dollar figure would require stacking the 2020 state-level headcounts against current benefit averages across intervening wage changes, and a derived number of that kind does not meet this document's sourcing standard. The offset enters the fiscal case in Appendix C as a direction, not a number, pending a dataset that supports more.
+B.7 Open Items and Verification List
+* $29 per hour loaded compensation: confirm as a network-wide average against Amazon's own disclosures, or replace. Every derived figure in B.4 and B.5 inherits this item.
+* 150 percent turnover and $8 billion turnover cost: primary New York Times pulls (2021 investigation; 2022 internal-documents reporting).
+* Flex headcount: no public figure; a carve-out disclosure item. Settle whether Flex counts within the 1 million figure, consistently across chapters.
+* DSP count: standardized at approximately 275,000 US drivers employed by partner firms, used in Chapters 1 and 4 and here. This is a US-scoped estimate, consistent with Amazon's most recent stated figure of 390,000 DSP driving jobs across its nine-country program (aboutamazon.com, September 2024), the United States being the large majority of that program. Confirm against a US-specific breakout if Amazon publishes one.
+* Current DSP and Flex compensation baselines: not publicly established; the wage-floor increment in B.5 is unquantified until they are.
+* Tier-split assumption: the career versus non-career split is a policy choice the enabling legislation would make, not a fact to verify; the scenarios bracket it rather than predict it.
+* Attrition-rate modeling: the modeling that feeds the headcount trajectory in B.5's scenarios is deferred by Chapter 5 to the forthcoming companion paper, The Automation Dividend. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix C. The Fiscal Case
+This appendix assembles the numbers from the Deliver America white paper into a comprehensive financial argument: what the Postal Service loses today, what the Distribution Network would earn under public ownership, how that revenue would repay the American Commerce Bonds, and what the American public would receive for what it pays.
+The Postal Service's Current Position
+The United States Postal Service reported a net loss of $9.0 billion in fiscal year 2025, following $9.5 billion in fiscal year 2024 and $6.5 billion in fiscal year 2023, a cumulative $25 billion over 3 years. The agency receives no taxpayer subsidy and is required by law to fund itself from postage and service revenue. It has lost money in nearly every fiscal year since 2007, with cumulative net losses of approximately $109 billion through 2024, and it has sat on the Government Accountability Office's High Risk List continuously since 2009.
+The composition of those losses matters more than their headline size, because most of the red ink comes from statute rather than operations. The Postal Accountability and Enhancement Act of 2006 required the Postal Service to pre-fund retiree health benefits at approximately $5.5 billion per year, an obligation imposed on no other federal agency. That mandate cost an average of $5.2 billion annually from 2007 onward and accounts for 84 percent of the Postal Service's total reported losses over that period. Congress recognized the error: the Postal Service Reform Act of 2022 repealed the pre-funding schedule, canceled the past-due payments, and integrated postal retiree health coverage with Medicare. That reform is done.
+What the 2022 reform could not do is erase the 15 years the mandate ran. The accumulated liabilities remain on the books, and the amortization payments against them continue to drive the majority of reported annual losses. More than 80 percent of the fiscal year 2025 net loss is attributed to factors outside management's control. The loss the Postal Service earned on operations proper, its controllable loss, was $2.7 billion.
+That is the baseline for this chapter: an operating shortfall of $2.7 billion a year, buried under legacy obligations..
+The operating shortfall has a structural cause. First-Class Mail peaked at 103.65 billion pieces in 2001 and has fallen more than 57 percent, to approximately 44.3 billion pieces. Total mail volume peaked at 213 billion pieces in 2006 and has fallen roughly 47 percent since. Because postal delivery is largely a fixed-cost operation, serving 168 million delivery points 6 days a week regardless of what is in the truck, the volume decline has not produced proportional decline in expenses. Package volume partially filled the gap for a decade, but in fiscal year 2025 package volume declined 5.7 percent, with revenue growth coming entirely from price increases. Market-dominant mail still contributed 53 percent of Postal Service revenue in fiscal year 2023, leaving the agency structurally dependent on its fastest-shrinking product.
+The fiscal problem, stated plainly: the Postal Service operates a national fixed-cost network whose statutory obligations are permanent and whose revenue base is in decline. No efficiency program closes that gap. It is a volume problem. The remedy is volume.
+Revenue Under Public Ownership
+The Delivery Network is the volume. Chapter 3 established the revenue architecture; this section carries it forward into projections.
+The observable floor is the network's external billings. As part of Amazon, the Delivery Network earned an estimated $31.1 billion in external shipping revenue in 2024, growing 12.2 percent year over year, with a compound annual growth rate of 25.8 percent from 2019 through 2024. That figure substantially understates the network's earning power, because it prices only the volume sold to outside parties and omits the far larger volume the network moves for Amazon retail at no market charge.
+Under public ownership, 3 changes would convert that understated floor into the going-concern revenue base on which Chapter 3's valuation rests.
+First, the long-term service agreement would bill Amazon retail at regulated market rates for the full volume the network moves on its behalf, volume carried internally and unpriced today. The moment that throughput is billed, the network's revenue base would expand several fold. This is the same base that sets the going-concern value near $200 billion, and, as the next section requires, it is the same base that would service the acquisition debt.
+Second, third-party access would open the network to every shipper at published, non-discriminatory rates. Chapter 3 describes the fulfillment lever whose removal would bring competing retailers, independent sellers, and small shippers onto the national network on equal terms. Amazon retail would remain the anchor customer under its volume commitment; the market around it would grow.
+Third, the network could extend beyond parcel movement into fulfillment and delivery offered as a service: the fulfillment operation Amazon sells today as Multi-Channel Fulfillment, made available to any American business at published, non-discriminatory rates rather than only to sellers on the marketplace they compete against. A public carrier with that fulfillment capacity and the routing technology to run it would hold capacity the market has never been offered on neutral terms.
+Full revenue modeling belongs to Appendix A, and the figures below are illustrative scenarios stated with their assumptions visible, not forecasts. Each takes the 2024 external-revenue floor and the going-concern conversion as its starting point and varies the growth assumption over 10 years.
+Under a conservative scenario, parcel-market growth slows materially and the network's billings grow at roughly half their recent rate. External-equivalent revenue would roughly double over the decade, and the full-throughput base billed under the service agreement would remain several times that figure. Debt service coverage would hold, and integration savings with the Postal Service network would do more of the fiscal work.
+Under a base scenario, growth continues near the network's recent 12 percent trajectory, moderating as the network matures. External-equivalent billings would roughly triple over the decade, and third-party volume would become a material share of the base as shippers migrate to the open network.
+Under an optimistic scenario, third-party adoption and fulfillment-service expansion compound on top of parcel growth, and the network's decade trajectory would resemble the 25.8 percent compound rate it demonstrated from 2019 through 2024. This scenario is presented for symmetry rather than reliance; nothing in the repayment model below requires it.
+The repayment case must close under the conservative scenario. 
+The Bond Repayment Model
+The American Commerce Bonds would raise the financed acquisition price, assumed to be as low as $183 billion after philanthropic contribution, and the debt would be serviced by the network's operating revenue on a fixed schedule, insulated from the appropriations process.
+The order of magnitude is checkable arithmetic. At an illustrative blended rate of 5 percent, annual interest on a $183 billion issue would run near $9 billion; a full amortization schedule over a 30-year term would carry annual debt service on the order of $12 billion. The precise rate, term, and schedule would be set in the enabling legislation and priced by the market, but the test the arithmetic must pass does not move much with the assumptions: the network's revenue must comfortably carry roughly $10 to $12 billion a year.
+Against the going-concern base, it would. A network whose external billings alone approach $31 billion and grow every year, and whose full-throughput billings under the service agreement run several times that figure, would carry debt service of that size within its operating margin. The critical point, established in Chapter 3 and repeated here: the bonds would not be serviced from the $31.1 billion external slice alone. They would be serviced from the same full-throughput revenue base that justifies the acquisition price..
+The Automation Dividend, defined in Chapter 5, would accelerate repayment. As automation reduces the network's labor cost against growing volume, a defined share of the realized savings, assumed to be $20 to $24 billion annually at maturity, would flow to accelerated bond repayment among the 5 allocations Chapter 5 sets out. Every dollar of dividend directed to the bonds would shorten the repayment term and reduce total interest paid; none of it would be required for the schedule to hold. 
+What happens if volume growth slows? Under the conservative scenario, in which growth runs at roughly half the recent rate, debt service coverage would tighten but hold, because the service agreement's volume commitments floor the anchor revenue through the transition term and the Postal Service integration savings accrue independently of parcel-market growth. The scenario in which the model breaks is not slow growth. It would require a sustained absolute decline in national parcel volume, a reversal of a 2-decade trend, sustained for years, and even then the bonds' term could be restructured against an asset base worth $150 to $250 billion. Bondholders would hold paper backed by revenue and by the largest logistics asset base in the country.
+Break-even timelines follow from the scenarios. Under the base case, operating revenue would cover debt service from the first full year of the going-concern billing structure, and the network would run cumulatively positive against its acquisition cost within the bonds' term, with the dividend acceleration pulling full repayment years forward. Under the conservative case, the same result arrives later within the term. Appendix A carries the year-by-year schedules. 
+Under every scenario in which national parcel volume does not enter sustained absolute decline, the bonds retire from network revenue, on schedule or ahead of it, without a dollar of appropriated money.
+The Taxpayer Proposition
+What would the American public pay, and what would it receive?
+The public would pay a financed price of approximately $200 billion, raised by bond sale and repaid from network revenue. It would receive assets independently worth $150 to $250 billion on a going-concern basis, with a working midpoint near $200 billion, optimistically with the roughly $15 to $18 billion philanthropic contribution. 
+The acquisition would also change the Postal Service's own trajectory, which is a fiscal asset in its own right. The volume problem this chapter opened with, a fixed-cost network hemorrhaging $2.7 billion a year in controllable losses as its product base shrinks, would be answered by the largest volume infusion in the institution's history. The integration Chapter 7 describes would put parcel volume through postal infrastructure, converting the Postal Service's fixed costs from a burden carried by shrinking mail into capacity serving growing packages.
+One companion item belongs in this accounting: The Postal Regulatory Commission and the Postal Service Office of Inspector General have both found that the method used to divide Civil Service Retirement System costs between the Postal Service and the federal government is unfair to the Postal Service, and have estimated that a corrected allocation would move roughly $75 billion in the Postal Service's favor. That finding has stood for more than a decade without corrective action. The legislation enabling Deliver America could carry the correction, and Chapter 4 sets out why it should. 
+The workforce conversion carries its own fiscal offset. The Government Accountability Office has documented that substantial numbers of workers at large employers, including in this sector, rely on federal assistance programs while employed. When 1 million workers convert to federal employment with full benefits, as Chapter 4 describes, a portion of the public assistance spending that currently supplements their wages would decline. Appendix B bounds the estimate; the direction of the effect is not in dispute. The public currently pays part of the labor cost of the private network. Under the acquisition, that spending would fall as the network's own revenue carries its workforce whole.
+The Automation Dividend completes the long-term picture. Under private ownership, the labor savings from automation flow to shareholders while the public bears the transition costs of the displaced. Under public ownership, an estimated $20 to $24 billion annually at maturity would flow to the allocations Chapter 5 sets out: bond repayment, the Worker Transition Fund, rural service expansion, lower shipping costs, and postal operational improvement. Over the life of the bonds and beyond, the dividend is the difference between a transaction that pays for itself and a transaction that pays the public back.
+A formal net-present-value calculation belongs to Appendix A, where the discount rate and horizon assumptions can be stated and stress-tested rather than asserted. But the shape of the answer is visible without it. The public would (ideally) finance $183 billion against the asset's own revenue, receive $200 billion in going-concern value, foreclose an open-ended stream of postal losses, reduce an existing stream of public assistance spending, and acquire a growing dividend stream that would run for as long as the network runs. Under any defensible discount rate, that transaction carries a positive net present value to the American public, and the conservative scenario is the one in which the margin is merely large.
+The Bottom Line
+Congress routinely commits public money at this scale, and the comparison clarifies what kind of commitment this would be. The federal government appropriates on the order of $850 billion for national defense in a single year, spent and not returned. The Interstate Highway System cost hundreds of billions in today's dollars, funded by dedicated fuel taxes, and repaid the country many times over in commerce it carried but never in dollars returned to the Treasury. Deliver America would ask for neither kind of commitment. The bonds would be repaid, with interest, from the revenue of the asset they purchase. Among the large public undertakings of the last century, this one belongs to the rare category that hands the money back.
+The number a skeptical reader should hold onto is therefore not the acquisition price, which the network itself would repay. It is the return: an asset base near $200 billion in public hands, a Postal Service restored to volume, a workforce carried by revenue rather than supplemented by assistance, and a dividend measured in the tens of billions annually flowing to public purposes for decades. The arithmetic, run conservatively, comes out ahead.
+Compiled Source Citations
+Confidence scale: 
+1 = highest quality (primary source: statute, court opinion, GAO/OIG/PRC report, SEC filing, Amazon's own filing or release, Brookings).
+ 2 = good secondary or a canonical landing page rather than the exact document (major news, industry tracker, agency home page). 
+3 = lowest quality (single local or regional report, advocacy source, aggregator, or a claim resting on secondary coverage of a primary that is not directly linked).
+Where a link is a landing or search page rather than the exact document, it is marked "(landing)"; where a primary is paywalled or not directly located, an accessible secondary link is given and the rating reflects that. 
+
+
+________________
+
+
+Chapter 1, The Case for Public Acquisition
+Amazon Supply Chain Services opened to all businesses (May 4, 2026); AWS-for-logistics framing; launch customers P&G, 3M, Lands' End, American Eagle; freight tier spanning ocean, air, ground, rail.
+* Link: https://www.aboutamazon.com/news/retail/amazon-supply-chain-services-for-business
+* Confidence: 1 (Amazon's own announcement, fetched).
+Amazon became the largest US parcel carrier in 2025; the crossover ran ahead of forecast.
+* Link: Pitney Bowes Parcel Shipping Index (landing) https://www.pitneybowes.com/us/shipping-index.html
+* Confidence: 2 (the specific 2025 volume/revenue figures are not yet tied to a located primary).
+USPS financial crisis figures (losses, cumulative, delivery points). Owned by Appendix C; see there.
+Delivery Network volume growth of 688 percent, 2018 to 2024.
+* Link: Capital One  https://capitaloneshopping.com/research/package-delivery-statistics/
+* Link: MWPVL or Amazon volume data (landing) https://www.mwpvl.com
+* Confidence: 2
+De Coster class of ~288 million consumers. Owned by Chapter 3; see there.
+________________
+
+
+Chapter 2, Constitutional and Historical Foundation
+Postal Clause and Necessary and Proper Clause (Article I, Section 8, Clauses 7 and 18).
+* Link: https://constitution.congress.gov/constitution/article-1/
+* Confidence: 1 (constitutional text).
+Federal eminent domain for public use. Kohl v. United States, 91 U.S. 367 (1875).
+* Link: https://supreme.justia.com/cases/federal/us/91/367/
+* Confidence: 1 (Supreme Court opinion).
+Federal-Aid Highway Act of 1956 (41,000 miles; $25 billion authorization).
+* Link: https://www.fhwa.dot.gov/interstate/history.cfm (Federal Highway Administration history)
+* Confidence: 2 (agency history page).
+Tennessee Valley Authority Act (signed May 18, 1933); self-funding federal corporation.
+* Link: https://www.tva.com/about-tva/our-history
+* Confidence: 2 (agency history page).
+Aviation and Transportation Security Act (November 19, 2001); TSA federalization; ~16,500 private to 40,000-plus federal screeners.
+* Link (statute): https://www.govinfo.gov/app/details/PLAW-107publ71
+* Confidence: 1 for the statute; the screener figures are 2 and should be confirmed against GAO/DHS records
+Rural Electrification Act (signed May 20, 1936); ~90 percent of farms without power.
+* Link: https://www.govinfo.gov/app/details/COMPS-1866 (Rural Electrification Act, compiled statute)
+* Confidence: 2 (confirm the 90 percent figure against USDA/REA history).
+Andrew Carnegie: sold Carnegie Steel to J.P. Morgan; $60 million; ~1,600 public libraries; 1892 Homestead Strike.
+* Link: https://www.carnegie.org/interactives/foundation-history/ (Carnegie Corporation history)
+* Confidence: 2
+________________
+
+
+Chapter 3, Proposed Acquisitions (perimeter, valuation, litigation)
+ASCS component map (AGL, SEND, AWD, MCD, PCP, FBA, MCF, Amazon Shipping) in Amazon's own names.
+* Link: https://www.aboutamazon.com/news/small-business/supply-chain-by-amazon (Supply Chain by Amazon, September 12, 2023)
+* Confidence: 1 (Amazon's own release).
+ASCS seller services page.
+* Link: https://sell.amazon.com/supply-chain
+* Confidence: 2 (product page, subject to update).
+ASCS opened to all businesses; freight tier including rail.
+* Link: https://www.aboutamazon.com/news/retail/amazon-supply-chain-services-for-business
+* Confidence: 1.
+Comparable valuations: UPS near $92 billion; FedEx near $78 billion (post FedEx Freight spin-off, June 1, 2026).
+* Link: market data (landing); UPS and FedEx investor relations https://investors.ups.com and https://investors.fedex.com
+* Confidence: 2 (confirm current market caps; operating margins should be pulled from annual reports).
+External shipping revenue $31.1 billion (2024), 12.2 percent YoY, 25.8 percent CAGR. Cross-reference Appendix A. Amazon 10-K underlies the fulfillment/shipping spend.
+* Link: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724&type=10-K (Amazon 10-K, EDGAR)
+* Confidence: 2 (the $31.1 billion external figure is an estimate pending a composition check; the 10-K spend line is 1).
+Facility and fleet inventory (600-plus US facilities, ~435 million sq ft, ~40,000 trucks, ~30,000 vans, ~110 aircraft).MWPVL International.
+* Link: https://www.mwpvl.com/html/amazon_com.html (MWPVL Amazon network page)
+* Confidence: 2 (re-pull by facility type on the perimeter).
+De Coster v. Amazon.com, Inc. (W.D. Wash.); ~288 million class; certified August 6, 2025; trial June 14, 2027.
+* Link: https://www.courtlistener.com/?q=De+Coster+v.+Amazon (docket search)
+* Confidence: 2 (confirm the certification order and trial date from the docket).
+California v. Amazon (AG Bonta, 2022; unredacted filing April 20, 2026; trial January 19, 2027).
+* Link: https://oag.ca.gov/news (California Attorney General newsroom, landing)
+* Confidence: 2 (confirm the filings and dates).
+________________
+
+
+Chapter 4, Workforce Transformation
+Amazon warehouse injuries above the warehousing-industry average (2017 to 2023), from Amazon's own OSHA data. Senate HELP Committee majority staff report, December 2024.
+* Link: https://www.help.senate.gov (committee site, landing)
+* Confidence: 2 (weight rests on the underlying OSHA Injury Tracking Application data, which is Amazon's own; locate the exact report to confirm).
+Time off Task (automated discipline from productivity logs).
+* Link: Vice/Motherboard 2020 coverage (landing) https://www.vice.com/en/section/tech
+* Confidence: 3 (locate the specific article; the durable claim rests on Amazon's own account).
+State warehouse quota-disclosure laws (California, New York, Washington, Minnesota).
+* Link: California Warehouse Quota law (AB 701) https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB701
+* Confidence: 2 (California confirmed; New York, Washington, and Minnesota statutes should be pulled to confirm).
+Delivery Service Partners; drivers are W-2 employees of partner firms.
+* Link: https://www.aboutamazon.com/news/transportation/amazon-delivery-service-partner-dsp-rate-increases-investment (Amazon DSP program, September 2024)
+* Confidence: 1 (Amazon's own program page). US-only driver count is a data gap; the paper uses ~275,000 (see Appendix B).
+Amazon Flex misclassification. Amazon Logistics, Inc. v. Virginia Employment Commission, 78 Va. App. 521 (2023), aff'd (Va. 2025, on procedural grounds); Wisconsin Supreme Court (via NELP, August 2025).
+* Links: https://law.justia.com/cases/virginia/court-of-appeals/2023/ (Virginia Court of Appeals, locate 78 Va. App. 521); https://www.nelp.org (Wisconsin holding, landing)
+* Confidence: 2 (locate the exact Virginia opinion and the Wisconsin case name/citation). Note: the defendant "Amazon Logistics, Inc." is a distinct entity from the intended acquired asset (the Delivery Network).
+Coverage by employing entity; DSP health coverage at or above ACA standards.
+* Link: https://www.aboutamazon.com/news/transportation/amazon-delivery-service-partner-dsp-rate-increases-investment
+* Confidence: 1.
+TSA scale comparison; two-tier career/non-career postal employment. TSA cross-references Chapter 2. Two-tier: NALC and APWU national agreements.
+* Links: https://www.nalc.org/workplace-issues/contract-administration and https://apwu.org/collective-bargaining
+* Confidence: 2 
+OSHA enforcement over the Postal Service. Postal Employees Safety Enhancement Act of 1998 (Pub. L. 105-241).
+* Link: https://www.govinfo.gov/app/details/PLAW-105publ241
+* Confidence: 1. Supporting: USPS OIG report HR-AR-12-001 (landing) https://www.uspsoig.gov.
+________________
+
+
+Chapter 5, The Automation Dividend
+More than 1 million robots (mid-2025); ~75 percent of delivery volume touches a robotic system.
+* Link: https://www.aboutamazon.com/news/operations (Amazon operations/robotics, landing)
+* Confidence: 2 
+Chapter 6, The Acquisition Structure
+Bezos holds ~8.8 percent of Amazon.com, Inc.; interest in a ~$200 billion sale runs to $15 to 18 billion. Amazon 2026 proxy (DEF 14A).
+* Link: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724&type=DEF+14A(EDGAR)
+* Confidence: 1 for the proxy (pull the exact share count and date; the $15 to 18 billion is the paper's bounded arithmetic).
+A $15 to 18 billion contribution among the largest individual charitable acts on record. Bounded comparison.
+* Link: none required unless hardened; reference points (largest lifetime giver; largest single gift) TO CONFIRM
+* Confidence: 2 (kept bounded deliberately).
+Six-day delivery requirement. 39 U.S.C. § 101(b), as amended by PSRA 2022.
+* Links: https://www.law.cornell.edu/uscode/text/39/101 and https://www.govinfo.gov/app/details/PLAW-117publ108
+* Confidence: 1. Accuracy note: before 2022 this was an annual appropriations rider, not standing statute (GAO B-324481, 2013).
+USPS self-funding framework; Treasury borrowing; Negotiated Service Agreements; post-2022 non-postal-services authority. USPS OIG, "Business or Public Service?"
+* Link: https://www.uspsoig.gov (landing; locate the specific report)
+* Confidence: 2 (NSA authority under PAEA 2006, https://www.govinfo.gov/app/details/PLAW-109publ435, confidence 1).
+Universal-service obligation (every address; no small post office closed solely for a deficit). 39 U.S.C. § 101(b).
+* Link: https://www.law.cornell.edu/uscode/text/39/101
+* Confidence: 1.
+Bond-financing precedents (Liberty and Victory bonds; Highway Trust Fund; municipal revenue bonds).Illustrative.
+* Link: https://www.treasurydirect.gov/history/ (Treasury history, landing)
+* Confidence: 2 (light sourcing adequate; the self-financing conclusion rests on the Chapter 3 revenue base).
+________________
+
+
+Chapter 7, The Transition Plan
+Synthesis chapter; most content cross-references Chapters 3, 4, 5, and 6.
+Warehouse workforce employed principally by Amazon.com Services LLC.
+* Link: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724&type=10-K (Amazon corporate structure via filings, landing)
+* Confidence: 2 (confirm against filings or state employment registrations).
+APWU and NALC collective bargaining relationships.
+* Links: https://apwu.org and https://www.nalc.org
+* Confidence: 2 (cross-reference Chapter 4 for the specific agreements).
+TSA 2001 to 2002 class-conversion precedent. Cross-reference Chapter 2 (ATSA).
+________________
+
+
+Chapter 8, The Political Architecture
+PSRA 2022 passed with substantial bipartisan majorities. PSRA 2022.
+* Link: https://www.congress.gov/bill/117th-congress/house-bill/3076 (Congress.gov; roll-call votes are linked from the "Actions" tab)
+* Confidence: 1 (statute/roll calls; if ever hardened to counts, reported as Senate 79 to 19 and House 342 to 92, TO CONFIRM from the roll calls).
+CSRS reallocation ~$75 billion, unaddressed for a decade. Cross-reference Chapter 8.
+TVA self-funding for 90-plus years. Cross-reference Chapter 2.
+De Coster and California v. Amazon; ~72 percent marketplace share (plaintiffs' estimate). Cross-reference Chapter 3.
+Amazon Supply Chain Services opening access. Cross-reference Chapters 1 and 3.
+FedEx and UPS as opponents. Characterization; no citation. If lobbying figures are added, source to https://www.opensecrets.org.
+________________
+
+
+Chapter 9, Recommendations and Next Steps
+GAO, CBO, and PRC as the bodies for a study, valuation, and diligence phase.
+* Links: https://www.gao.gov, https://www.cbo.gov, https://www.prc.gov
+* Confidence: 1 (referenced by role; no empirical claim).
+Amazon has reduced its postal business by 20 percent.
+* Link: https://www.newsnationnow.com/business/amazon-packages-sent-usps/
+* Confidence: 2 
+De Coster and California trials scheduled 2027; parcel-volume crossover 2025. Cross-reference Chapters 3 and 1.
+________________
+
+
+Appendix A, Full Financial Model and Assumptions
+Fulfillment and shipping spend $194.3 billion. Amazon 10-K.
+* Link: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001018724&type=10-K
+* Confidence: 1 (confirm the exact line and year).
+External revenue $31.1 billion; 12.2 percent; 25.8 percent CAGR. Cross-reference Chapter 3. 
+UPS ~$92 billion; FedEx ~$78 billion; operating margins. Cross-reference Chapter 3.
+* Links: https://investors.ups.com and https://investors.fedex.com
+* Confidence: 2 (pull operating margins from the annual reports).
+Bezos 8.8 percent stake. Cross-reference Chapter 6 (EDGAR proxy). Confidence 1.
+Facility inventory (MWPVL). Cross-reference Chapter 3. Re-pull by type to confirm.
+Appendix B, Workforce Data and Labor Cost Analysis
+Benefits ~30 percent of compensation (private), ~38 percent (state and local). Bureau of Labor Statistics, Employer Costs for Employee Compensation.
+* Link: https://www.bls.gov/ect/ (BLS ECEC)
+* Confidence: 1 (cite the specific ECEC release for the file).
+Amazon among the larger employers of SNAP and Medicaid recipients; fewer than 10 percent of aid recipients work in the public sector. GAO-21-45 (and follow-up GAO-21-410T).
+* Links: https://www.gao.gov/products/gao-21-45 and https://www.gao.gov/products/gao-21-410t
+* Confidence: 1.
+Turnover ~150 percent; ~$8 billion turnover cost. NYT 2021; Engadget October 2022.
+* Links: https://www.nytimes.com (NYT, TO CONFIRM direct URL) and https://www.engadget.com/amazon-attrition-leadership-ctsmd-201800110-201800100.html
+* Confidence: 1 (Engadget direct); 2 (NYT direct URL pending).
+Loaded compensation ~$29 an hour. WHYY, May 2025.
+* Link: https://whyy.org (landing)
+* Confidence: 3 (single regional report; confirm as network-wide).
+DSP driver population (~275,000 US, partner-firm W-2 employees). US-scoped estimate consistent with Amazon's global 390,000 DSP driving jobs.
+* Link: https://www.aboutamazon.com/news/transportation/amazon-delivery-service-partner-dsp-rate-increases-investment
+* Confidence: 2 (confirm against a US-specific breakout).
+________________
+
+
+Appendix C, The Fiscal Case
+USPS net loss $9.0 billion (FY2025), $9.5 billion (FY2024), $6.5 billion (FY2023); ~$109 billion cumulative since 2007; on the GAO High Risk List since 2009.
+* Links: https://about.usps.com/newsroom/financials/ (USPS financial results, landing) and https://www.gao.gov/high-risk-list
+* Confidence: 2 for the USPS figures (anchor each to the audited annual reports/Form 10-K,); 1 for the High Risk List.
+PAEA 2006 prefunding (~$5.5 billion a year); PSRA 2022 repeal and Medicare integration.
+* Links: https://www.govinfo.gov/app/details/PLAW-109publ435 (PAEA) and https://www.govinfo.gov/app/details/PLAW-117publ108 (PSRA)
+* Confidence: 1 (statutes).
+168 million delivery points, six days a week.
+* Link: https://about.usps.com/who/profile/ (USPS profile, landing)
+* Confidence: 2 (confirm the current delivery-point count).
+Retiree/pension charges are OPM-determined, outside USPS control, near $10 billion a year, and account for most of the gap between the reported loss and near break-even. Brookings, Elena Patel, March 2026.
+* Link: https://www.brookings.edu/articles/the-us-postal-services-fiscal-crisis/
+* Confidence: 1 (fetched; draws on USPS financials, OPM, GAO, OIG).
+CSRS cost-allocation correction worth ~$75 billion in USPS's favor. PRC and USPS OIG findings.
+* Links: https://www.prc.gov (landing) and https://www.uspsoig.gov (landing)
+* Confidence: 2 (locate the specific PRC and OIG reports and the $75 billion estimate).
+Workers at large employers on federal assistance while employed. GAO-21-45.
+* Link: https://www.gao.gov/products/gao-21-45
+* Confidence: 1. See Appendix B.
+Scale comparisons: ~$850 billion annual defense appropriation; Interstate Highway System cost.
+* Links: https://www.cbo.gov/topics/defense-and-national-security (CBO, landing) and https://www.fhwa.dot.gov/interstate/history.cfm
+* Confidence: 2 (hedged in prose; anchor to the appropriations act/CBO and FHWA, TO CONFIRM).
+
+
+
+
+
+
+AI Disclosure
+
+
+In the creation of this document, I have used Claude (Sonnet 4.6, Sonnet 5.0, Opus 4.8 and Fable 5.0) as a research analyst and editor. While I am an informed voter and citizen, I have not previously made policy recommendations beyond the County level. I used Claude to:
+
+
+* Identify and validate relevant, timely sources of data.
+* Structure a document appropriate for public consideration of policy adoption at the federal level.
+* Draft financial models suitable for review by experts.
+* Identify my blind spots, assumptions and biases.
+* Moderate my tone (which tends to snark) and help me adhere to measured, nonpartisan professional language.
+* Act as a thesaurus and/or dictionary when uncertain about the right word to select.
+
+
+The proposal's arguments and conclusions are my own. Errors are my own.
+
+
+Throughout the process, Claude has shared insights from financial data, American history and current events. While not all insights were salient (or accurate), in some surprising instances they updated my understanding of the problem space and impacted the scope and content of this document. Claude is a promising intern with a bright future ahead of them!
+
+
+Every citation has been (or is in the process of being) reviewed for accuracy by a human. Every released version was proofread and approved by me (and other humans). 
+
+
+Comments and corrections are welcomed at DeliverAmerica2028@gmail.com
+
+
+Katharine Lee Nelson
+Portland, OR
+July, 2026
+
+
+
+
+[a]1789 postal act

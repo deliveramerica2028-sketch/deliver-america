@@ -561,15 +561,24 @@
     min-width: 200px;
     padding: 0.75rem 1rem;
     border: 2px solid var(--navy);
-    background: white;
+    background: var(--cream);
     font-family: 'Barlow', sans-serif;
     font-size: 0.95rem;
     color: var(--navy);
     outline: none;
   }
 
+  .signup-form input::placeholder { color: var(--navy); opacity: 0.5; }
+
   .signup-form input:focus {
     border-color: var(--red);
+  }
+
+  .signup-form button {
+    -webkit-appearance: none;
+    appearance: none;
+    border-radius: 0;
+    line-height: 1.2;
   }
 
   /* FOOTER */
@@ -640,7 +649,7 @@
   <ul class="nav-links">
     <li><a href="#" onclick="showPage('home')">Home</a></li>
     <li><a href="#" onclick="showPage('faq')">FAQ</a></li>
-    <li><a href="#" onclick="showPage('download')">White Paper</a></li>
+    <li><a href="#" onclick="showPage('download')">White Papers</a></li>
     <li><a href="#" onclick="showPage('automation')">Automation Dividend</a></li>
     <li><a href="#" onclick="showPage('letter')">Open Letter to Jeff Bezos</a></li>
     <li><a href="#" onclick="showPage('about')">About</a></li>
@@ -662,7 +671,7 @@
     <div class="hero-rule"></div>
     <p class="hero-body">A proposal for the public acquisition of Amazon's Delivery Network at fair market value, merged with the United States Postal Service under a new federally chartered public authority.<br><br>Save the Post Office, transform one million workers into federal employees overnight, and establish a democratic model for the age of automation.</p>
     <div class="hero-cta">
-      <a href="#" class="btn-primary" onclick="showPage('download')">Read the White Paper</a>
+      <a href="whitepaper.html" class="btn-primary">Read the White Paper</a>
       <a href="#" class="btn-secondary" onclick="showPage('faq')">Learn More</a>
     </div>
   </div>
@@ -726,10 +735,10 @@
   <div class="signup-band">
     <h3>Stay Informed</h3>
     <p>Join the movement. Get updates as the proposal develops.</p>
-    <div class="signup-form">
-      <input type="email" placeholder="your@email.com" id="email-input">
-      <a href="mailto:deliveramerica@deliveramerica.org?subject=Keep me informed about Deliver America" class="btn-primary" style="padding: 0.75rem 1.5rem;">Sign Up</a>
-    </div>
+    <form action="https://buttondown.email/api/emails/deliveramerica/subscribe" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/deliveramerica', 'popupwindow')" class="signup-form">
+      <input type="email" name="email" placeholder="your@email.com" aria-label="Email address" required>
+      <button type="submit" class="btn-primary" style="padding: 0.75rem 1.5rem;">Sign Up</button>
+    </form>
     <p style="margin-top: 1.25rem; font-size: 0.85rem; opacity: 0.6; font-style: italic;">If you are Jeff Bezos: <a href="#" onclick="showPage('letter')" style="color: var(--navy); opacity: 0.8;">Hello. We Should Talk.</a></p>
   </div>
 
@@ -831,10 +840,10 @@
   <div class="signup-band">
     <h3>Stay Informed</h3>
     <p>Join the movement. Get updates as the proposal develops.</p>
-    <div class="signup-form">
-      <input type="email" placeholder="your@email.com">
-      <a href="mailto:deliveramerica@deliveramerica.org?subject=Keep me informed about Deliver America" class="btn-primary" style="padding: 0.75rem 1.5rem;">Sign Up</a>
-    </div>
+    <form action="https://buttondown.email/api/emails/deliveramerica/subscribe" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/deliveramerica', 'popupwindow')" class="signup-form">
+      <input type="email" name="email" placeholder="your@email.com" aria-label="Email address" required>
+      <button type="submit" class="btn-primary" style="padding: 0.75rem 1.5rem;">Sign Up</button>
+    </form>
   </div>
 
 </div>
@@ -851,7 +860,10 @@
       <h3>Deliver America</h3>
       <p class="download-meta">Version 1.0 &nbsp;·&nbsp; July 4, 2026 &nbsp;·&nbsp; Katharine Lee Nelson</p>
       <p>A Proposal for the Public Acquisition of Amazon's Delivery Network and the Transformation of the United States Postal Service. Covers the constitutional foundation, asset valuation, labor transformation, the Automation Dividend, acquisition structure, transition plan, the fiscal case, and our unique political moment.</p>
-      <a href="deliver-america-v1.pdf" class="btn-primary" download>Download PDF</a>
+      <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.75rem;">
+        <a href="whitepaper.html" class="btn-primary">Read the White Paper</a>
+        <a href="deliver-america-v1.pdf" class="btn-secondary" download>Download PDF</a>
+      </div>
     </div>
 
     <div class="download-card" style="margin-top: 1.5rem;">
@@ -877,10 +889,10 @@
     <div class="signup-band" style="background: transparent; border: 2px solid var(--gold); max-width: 500px; margin: 0 auto; padding: 2rem;">
       <h3 style="color: var(--cream);">Get Notified at Launch</h3>
       <p style="color: var(--cream);">We'll send you the paper the day it publishes.</p>
-      <div class="signup-form">
-        <input type="email" placeholder="your@email.com" style="border-color: var(--gold); background: rgba(255,255,255,0.1); color: var(--cream);">
-        <a href="mailto:deliveramerica@deliveramerica.org?subject=Notify me when The Automation Dividend publishes" class="btn-primary" style="padding: 0.75rem 1.5rem;">Notify Me</a>
-      </div>
+      <form action="https://buttondown.email/api/emails/deliveramerica/subscribe" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/deliveramerica', 'popupwindow')" class="signup-form">
+        <input type="email" name="email" placeholder="your@email.com" aria-label="Email address" required>
+        <button type="submit" class="btn-primary" style="padding: 0.75rem 1.5rem;">Notify Me</button>
+      </form>
     </div>
   </div>
 
@@ -964,7 +976,7 @@
   <ul class="footer-links">
     <li><a href="#" onclick="showPage('home')">Home</a></li>
     <li><a href="#" onclick="showPage('faq')">FAQ</a></li>
-    <li><a href="#" onclick="showPage('download')">White Paper</a></li>
+    <li><a href="#" onclick="showPage('download')">White Papers</a></li>
     <li><a href="#" onclick="showPage('automation')">Automation Dividend</a></li>
     <li><a href="#" onclick="showPage('letter')">Dear Jeff Bezos</a></li>
     <li><a href="#" onclick="showPage('about')">About</a></li>
