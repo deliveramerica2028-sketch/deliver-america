@@ -211,19 +211,30 @@
   }
   .wp-doc h2.wp-cite-h { color: var(--red); border-top-color: var(--red); }
 
+  /* Secondary headings (also the default for appendix/citation h3) */
   .wp-doc h3 {
     font-family: 'Barlow Condensed', sans-serif;
     font-weight: 700;
-    font-size: clamp(1.25rem, 3vw, 1.5rem);
+    font-size: clamp(1.35rem, 3.2vw, 1.7rem);
     letter-spacing: 0.02em;
     color: var(--navy);
-    margin: 2.25rem 0 0.75rem;
+    margin: 2.5rem 0 0.75rem;
     scroll-margin-top: 5rem;
   }
   .wp-doc h3.wp-sub {
-    color: #3a4658;
+    color: #2e3a4f;
     padding-left: 0.85rem;
     border-left: 4px solid var(--gold);
+  }
+  /* Tertiary headings: smaller, lighter, no rule */
+  .wp-doc h3.wp-sub3 {
+    font-size: clamp(1.02rem, 2.1vw, 1.18rem);
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    color: #6a7280;
+    margin: 1.7rem 0 0.4rem;
+    padding-left: 0.85rem;
+    border-left: none;
   }
 
   .wp-doc p { margin: 0 0 1.15rem; }
@@ -434,6 +445,16 @@
     text-decoration: none; border-left: 2px solid transparent; margin-left: -1px;
   }
   .wp-rail-sub a:hover { color: var(--red); }
+  .wp-rail-sub3 {
+    list-style: none; margin: 0.1rem 0 0.35rem 0.75rem; padding: 0;
+    border-left: 1px solid var(--rule);
+  }
+  .wp-rail-sub3 a {
+    display: block; padding: 0.25rem 0.5rem;
+    font-size: 0.78rem; line-height: 1.3; color: #7c8290;
+    text-decoration: none; border-left: 2px solid transparent; margin-left: -1px;
+  }
+  .wp-rail-sub3 a:hover { color: var(--red); }
   .wp-rail-link.active {
     color: var(--navy); border-left-color: var(--gold);
     background: rgba(201, 168, 76, 0.12);
@@ -514,32 +535,32 @@
 <h3 class="wp-sub" id="the-post-office-is-in-trouble">The Post Office is In Trouble</h3>
 <p>The United States Postal Service (USPS), colloquially “The Post Office,” is losing money. Some Americans don’t think of this as a problem: The Post Office is a public service, they reason, and it shouldn’t have to turn a profit. Many do not realize that the USPS is an independent, self-funding agency.  By law, it is funded from its own revenue, and that revenue base is in decline.</p>
 <p>The USPS has lost $25 billion over 3 years and $109 billion since 2007. It has been on the Government Accountability Office&#x27;s (GAO’s) High Risk List continuously since 2009, and as of 2026, has reached its federal borrowing limit. Postmaster General David Steiner has reported that if USPS were required to make all mandated payments toward its unfunded liabilities, it could exhaust its cash reserves as early as 2031.</p>
-<h3 class="wp-sub" id="declining-revenue">Declining Revenue</h3>
+<h3 class="wp-sub3" id="declining-revenue">Declining Revenue</h3>
 <p>USPS First-class mail peaked at 103.65 billion pieces in 2001 and has since fallen by more than 57% to approximately 44.3 billion pieces. Total mail volume peaked at 213 billion pieces in 2006 and has fallen by roughly 47% since. Because postal delivery is largely a fixed-cost operation, that decline has not produced proportional reduction in expenses. Package volume has partially filled the revenue gap, but in FY2025 package volume itself declined 5.7%, with revenue growth coming entirely from price increases.</p>
 <p>Market-dominant mail (mail products over which USPS has a legal monopoly) still contributed 53% of USPS revenue in FY2023 despite decades of volume loss, leaving the agency dependent on its fastest-shrinking product category.</p>
-<h3 class="wp-sub" id="lingering-debt">Lingering Debt</h3>
+<h3 class="wp-sub3" id="lingering-debt">Lingering Debt</h3>
 <p>The Postal Accountability and Enhancement Act of 2006 required the Postal Service to pre-fund retiree health benefits at approximately $5.5 billion per year. The Postal Service Reform Act of 2022 repealed the pre-funding schedule, canceled past-due payments, and integrated postal retiree health coverage with Medicare. That reform is done.</p>
 <p>The liabilities that accumulated while the schedule was in force remain on the books, however, and the amortization payments against them continue to drive the majority of reported annual losses. More than 80 percent of the fiscal year 2025 net loss is attributed to factors outside management&#x27;s control. The loss the Postal Service earned on operations, its controllable loss, was $2.7 billion.</p>
-<h3 class="wp-sub" id="the-rise-of-amazon-logistics">The Rise of Amazon Logistics</h3>
+<h3 class="wp-sub3" id="the-rise-of-amazon-logistics">The Rise of Amazon Logistics</h3>
 <p>Meanwhile, other delivery interests have grown to dominate the market. From 2018 to 2024, Amazon’s package volume increased by 688%, making it the fastest-growing major carrier in the United States. Amazon surpassed the Postal Service in parcel volume in 2025.</p>
 <p>Amazon&#x27;s global warehouse footprint now totals more than 624 million square feet across roughly 2,500 facilities, including sorting centers, delivery stations, air hubs, and a last-mile fleet of over 40,000 semi-trucks and 30,000 vans. In 2024 alone, Amazon signed 31 million square feet of new leases, surpassing its pre-pandemic average. In under a decade, Amazon has become a national delivery service provider on par with FedEx, UPS, and USPS itself.</p>
 <h3 class="wp-sub" id="amazon-is-filling-the-gap">Amazon is Filling The Gap</h3>
 <p>Amazon is a quintessentially American success. It is the second largest private employer in the United States, and the second largest company in the world. Few other organizations have had such a profound impact on 21st century commerce, and its influence grows. Americans don’t often send letters anymore. We do, however, order a lot of packages from the internet.</p>
-<h3 class="wp-sub" id="the-cost-of-duplication">The Cost of Duplication</h3>
+<h3 class="wp-sub3" id="two-systems-doing-one-job">Two Systems Doing One Job</h3>
 <p>In 2024, Amazon spent $194.3 billion on shipping and fulfillment combined: $95.8 billion on shipping and $98.5 billion on fulfillment operations. That figure represents private capital deployed to replicate, at considerable expense, logistics capacity the USPS theoretically should serve.</p>
 <p>In spite of this redundancy, Amazon is the largest single customer of the USPS. In 2025, Amazon generated more than $6 billion in revenue for USPS, accounting for roughly 25% of all packages the agency delivered, and between 30% and 40% of packages in some rural areas.</p>
 <p>That relationship is now contracting. In April of 2026, the two parties revised their agreement, reducing Amazon&#x27;s USPS volume by 20%. Layered onto cumulative losses of $25 billion over three years and a cash position the Postmaster General has described as insufficient, this reduction threatens further damage to USPS solvency. In May of 2026, Amazon announced the launch of Amazon Supply Chain Services (ASCS), opening its freight, distribution, fulfillment, and parcel shipping capabilities to businesses of all types and sizes.</p>
 <h3 class="wp-sub" id="why-this-is-a-problem">Why This is a Problem</h3>
-<h3 class="wp-sub" id="rural-america-and-the-limits-of-private-service">Rural America and the Limits of Private Service</h3>
+<h3 class="wp-sub3" id="rural-america-and-the-limits-of-private-service">Rural America and the Limits of Private Service</h3>
 <p>The USPS stands alone in its legal obligation to serve every address in the country (approximately 168 million delivery points) six days a week, at uniform pricing. Federal law prohibits closing post offices solely on the basis of operating at a deficit. This limits cost-cutting options precisely where delivery is most expensive.</p>
 <p>What makes this obligation burdensome is not the eye-watering expense of rural delivery, but the collapse of revenue streams that once subsidized it. The USPS absorbs the full cost of rural delivery without the pricing flexibility private carriers are free to exercise. For example: UPS charges Delivery Area Surcharges of up to $19.30 for rural and extended zones atop 5$ residential surcharges; their rural pickups can exceed $20. USPS charges nothing extra. The cost of service remains the same for all Americans, no matter where we live.</p>
 <p>In 2025 Amazon announced a $4 billion rural expansion to more than 200 new delivery stations targeting 4,000 communities. For Amazon, this expansion is economically viable because it controls both the retail platform through which orders are generated, and the logistics infrastructure that fulfills them. This gives Amazon the ability to anticipate rural routes it can fulfill on its own and build out its network accordingly with no other external shippers involved.</p>
 <p>It’s an incredible feat. Private players stepping up to fill gaps in public service could be defended as a market success.  What Amazon is not obliged to make, however, is a public commitment. Their private infrastructure operates where it creates shareholder value. Amazon is not a charity.</p>
-<h3 class="wp-sub" id="price-fixing">Price Fixing</h3>
+<h3 class="wp-sub3" id="price-fixing">Price Fixing</h3>
 <p>According to a class action now certified to represent approximately 288 million consumers, Amazon’s reach allows it to distort pricing across the entire e-commerce market. The core allegation in De Coster et al. v. Amazon.com, Inc. is that Amazon penalizes third-party sellers who offer lower prices on competing platforms, using fulfillment access as a lever to enforce price floors across the internet economy. A seller who cannot afford to lose Amazon logistics access cannot afford to price competitively elsewhere. The consumer, of course, pays the difference.</p>
-<h3 class="wp-sub" id="privacy-and-data-sovereignty">Privacy and Data Sovereignty</h3>
+<h3 class="wp-sub3" id="privacy-and-data-sovereignty">Privacy and Data Sovereignty</h3>
 <p>Amazon&#x27;s delivery, retail, devices, and cloud businesses combine to observe far more than a shipping address. Opening someone&#x27;s mail is a federal crime once it enters USPS custody, a restriction that exists before any postal employee touches an envelope. No comparable federal statute applies once a package enters a private carrier&#x27;s hands, including Amazon&#x27;s delivery network. What stops Amazon from opening a package, or sharing information about a customer’s mail with a third party? Nothing does, except Amazon’s own word.</p>
-<h3 class="wp-sub" id="the-upshot">The Upshot</h3>
+<h3 class="wp-sub3" id="the-upshot">The Upshot</h3>
 <p>Each of these problems compounds the others. USPS is obligated to serve every address at one price; Amazon serves only the routes it chooses to build, priced however it likes. Sellers on Amazon&#x27;s platform already pay a premium for the privilege of staying visible, a cost every one of their customers eventually absorbs. And Amazon&#x27;s trucks, warehouses, and devices already hold more information about American households than the Postal Service has ever been legally permitted to collect.</p>
 <p>None of this changes because Amazon builds more delivery stations or ships more packages. It changes only if the network answers to public law instead of private policy.</p>
 <h3 class="wp-sub" id="what-we-should-do-about-it">What We Should Do About It</h3>
@@ -550,50 +571,50 @@
 <p>As this network automates, the resulting savings would be redirected through an Automation Dividend to worker transition support, rural service expansion, and lower shipping costs for American businesses and households.</p>
 <p>The result would be a postal service rebuilt for the 21st century, one that fulfills the constitutional mandate Congress established at America’s founding, at the scale demanded by the modern American economy.</p>
 <p>All we require is the political will to act.</p>
-<h3 class="wp-sub" id="the-time-to-act-is-now">The Time To Act Is Now</h3>
+<h3 class="wp-sub3" id="the-time-to-act-is-now">The Time To Act Is Now</h3>
 <p>Amazon has already begun opening its logistics network to third-party shippers who do not sell on its platform, reinforcing its function as an independent logistics operator rather than an extension of its retail business. Networks strengthen with use, and a logistics business with hundreds of customers is easier to acquire than one with thousands. The acquisition case will not improve with time.</p>
-<h3 class="wp-sub" id="the-political-outlook">The Political Outlook</h3>
+<h3 class="wp-sub3" id="the-political-outlook">The Political Outlook</h3>
 <p>Deliver America has the potential for broad, bipartisan support.</p>
-<p>Infrastructure. Public investments in physical systems that connect the country historically enjoy broad popular support, from canals and bridges to rural electrification and the interstate highway system. Recent polling confirms that sentiment endures: 65% of Americans supported the 2021 Bipartisan Infrastructure Law, including majorities of independents and significant minorities of Republicans.</p>
-<p>Economic Fairness. Amazon is the second-largest private employer in the United States. Its 750,000 warehouse workers and 256,000 delivery drivers do not have what post office workers enjoy: federal wage floors, civil service protections, and job security. Most Americans, regardless of party, believe that people doing physically demanding, economically essential work deserve basic protections. Deliver America proposes to extend those protections to a million people on Day One as a direct consequence of public acquisition.</p>
-<p>Automation. A January 2025 survey found 89% of U.S. workers are concerned about AI&#x27;s impact on their job security, and companies cut 55,000 roles attributed directly to AI in 2025: a 12-fold increase from 2023. Deliver America proposes that realized labor cost savings from automation be returned to workers and communities. The Automation Dividend is a concrete plan to address structural workforce changes. When automation happens inside public infrastructure, the proceeds should belong to the public.</p>
-<p>Privacy. Data privacy is one of the few subjects that still unite Americans across party lines. 72% say there should be more government regulation of what companies can do with personal data, including 78% of Democrats and 68% of Republicans. Amazon&#x27;s delivery network sits alongside its retail platform, its device business, and its cloud infrastructure, a combination no comparable carrier holds, restrained by nothing firmer than the company&#x27;s internal policies. Deliver America proposes to bring that network under the same public statutory framework that already governs the rest of the postal system, where access to personal information is restricted by law rather than a company&#x27;s word. When a network reaches every American address, the rules governing what happens to that information should be public, not proprietary.</p>
+<p><em>Infrastructure.</em> Public investments in physical systems that connect the country historically enjoy broad popular support, from canals and bridges to rural electrification and the interstate highway system. Recent polling confirms that sentiment endures: 65% of Americans supported the 2021 Bipartisan Infrastructure Law, including majorities of independents and significant minorities of Republicans.</p>
+<p><em>Economic Fairness.</em> Amazon is the second-largest private employer in the United States. Its 750,000 warehouse workers and 256,000 delivery drivers do not have what post office workers enjoy: federal wage floors, civil service protections, and job security. Most Americans, regardless of party, believe that people doing physically demanding, economically essential work deserve basic protections. Deliver America proposes to extend those protections to a million people on Day One as a direct consequence of public acquisition.</p>
+<p><em>Automation.</em> A January 2025 survey found 89% of U.S. workers are concerned about AI&#x27;s impact on their job security, and companies cut 55,000 roles attributed directly to AI in 2025: a 12-fold increase from 2023. Deliver America proposes that realized labor cost savings from automation be returned to workers and communities. The Automation Dividend is a concrete plan to address structural workforce changes. When automation happens inside public infrastructure, the proceeds should belong to the public.</p>
+<p><em>Privacy.</em> Data privacy is one of the few subjects that still unite Americans across party lines. 72% say there should be more government regulation of what companies can do with personal data, including 78% of Democrats and 68% of Republicans. Amazon&#x27;s delivery network sits alongside its retail platform, its device business, and its cloud infrastructure, a combination no comparable carrier holds, restrained by nothing firmer than the company&#x27;s internal policies. Deliver America proposes to bring that network under the same public statutory framework that already governs the rest of the postal system, where access to personal information is restricted by law rather than a company&#x27;s word. When a network reaches every American address, the rules governing what happens to that information should be public, not proprietary.</p>
 <h3 class="wp-sub" id="how-to-take-action">How To Take Action</h3>
-<h3 class="wp-sub" id="engage-the-framework">Engage The Framework</h3>
+<h3 class="wp-sub3" id="engage-the-framework">Engage The Framework</h3>
 <p>This proposal, its assumptions, and models are provided with the hope that they will be examined in public by subject matter experts. If you have ever worked for the USPS or Amazon we are particularly interested in your perspective.</p>
-<h3 class="wp-sub" id="commission-the-independent-study">Commission The Independent Study</h3>
+<h3 class="wp-sub3" id="commission-the-independent-study">Commission The Independent Study</h3>
 <p>A member of Congress could introduce an act directing the Government Accountability Office to examine Deliver Americas premises. A foundation or university could fund an independent version. Either would move the proposal from argument toward evidence.</p>
-<h3 class="wp-sub" id="begin-the-conversation">Begin The Conversation</h3>
+<h3 class="wp-sub3" id="begin-the-conversation">Begin The Conversation</h3>
 <p>Share this proposal with people who make decisions: your representatives, your local officials, journalists, policy researchers. Share it with your friends, family and coworkers. The more people who engage with it seriously, the better it gets.</p>
 <h2 id="2-the-constitutional-mandate" class="wp-chapter">2. The Constitutional Mandate</h2>
 <h3 class="wp-sub" id="the-founders-intent">The Founders&#x27; Intent</h3>
 <p>The Founders built the postal system before most other federal institutions because they knew it would be necessary for democratic self-government. A nation cannot survive absent the means to communicate with and supply itself on its own terms.</p>
-<h3 class="wp-sub" id="pre-constitutional-roots">Pre-Constitutional Roots</h3>
+<h3 class="wp-sub3" id="pre-constitutional-roots">Pre-Constitutional Roots</h3>
 <p>Colonial leadership anticipated that secure communication would be critical to winning independence. Three months after Lexington and Concord, the Continental Congress appointed Benjamin Franklin as the first Postmaster General on July 26, 1775. During the Revolutionary War, the postal system was the connective tissue between army commanders and the first elected representatives, and between representatives and their constituents across hundreds of miles of rough roads.</p>
 <p>The Articles of Confederation, ratified in 1781, formally granted Congress &quot;the sole and exclusive right and power of...establishing or regulating post offices from one State to another.&quot; By the time of the Constitutional Convention in 1787, the postal system had already existed in some form for 12 years.</p>
-<h3 class="wp-sub" id="article-i-section-8-clause-7">Article I, Section 8, Clause 7</h3>
+<h3 class="wp-sub3" id="article-i-section-8-clause-7">Article I, Section 8, Clause 7</h3>
 <p>Article I, Section 8 enumerates 18 specific Powers of Congress. Clause 7 reads, &quot;The Congress shall have Power...To establish Post Offices and post Roads.&quot;</p>
 <p>Considered alongside the other 17 powers (taxes, borrowing, interstate and foreign commerce, immigration, bankruptcy, currency, counterfeiting, and roads, patents and copyrights, courts, piracy, declarations of war, armies, navies, military governance, and the governance of the capital district), the postal service is a remarkable inclusion. The Postal Service is the only domestic civilian infrastructure function in the list. Everything else concerns national revenue, defense, commerce, or the courts.</p>
-<h3 class="wp-sub" id="the-necessary-and-proper-clause">The Necessary and Proper Clause</h3>
+<h3 class="wp-sub3" id="the-necessary-and-proper-clause">The Necessary and Proper Clause</h3>
 <p>Article I, Section 8, Clause 18 grants Congress the power &quot;To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers.&quot; The postal clause&#x27;s directive to &quot;establish&quot; post offices and post roads becomes, through the Necessary and Proper Clause, a broad legislative grant to do whatever is required to fulfill that function. While the primary infrastructure of American commerce has shifted from post roads to fulfillment networks, the constitutional mandate to maintain that infrastructure has not expired.</p>
 <h3 class="wp-sub" id="historical-precedents-for-public-acquisition-of-private-infrastructure">Historical Precedents for Public Acquisition of Private Infrastructure</h3>
-<h3 class="wp-sub" id="kohl-v-united-states-1875">Kohl v. United States (1875)</h3>
+<h3 class="wp-sub3" id="kohl-v-united-states-1875">Kohl v. United States (1875)</h3>
 <p>The Post Office is so vital to the function of the United States government that the very first federal eminent domain case was decided over postal expansion. In Kohl v. United States, 91 U.S. 367 (1875), the Supreme Court held that the federal government possesses the inherent right to acquire private property for public use within the states, as necessary to fulfill its constitutional functions (in this case the establishment of post offices). The Court declared that this authority &quot;is essential to a nation&#x27;s independent existence and perpetuity.&quot;</p>
 <p>Deliver America does not propose the acquisition of any assets via eminent domain. Kohl v. United States is relevant, however, because it demonstrates the power to acquire infrastructure in service of the postal mandate is not a new idea. Adequately provisioning the post office is essential to government function, recognized by the Supreme Court 150 years ago, and rooted in the same Article I authority that established The Post Office in the first place.</p>
-<h3 class="wp-sub" id="the-tennessee-valley-authority-tva">The Tennessee Valley Authority (TVA)</h3>
+<h3 class="wp-sub3" id="the-tennessee-valley-authority-tva">The Tennessee Valley Authority (TVA)</h3>
 <p>President Roosevelt signed the Tennessee Valley Authority Act on May 18, 1933, creating the Tennessee Valley Authority (TVA) as a federally owned corporation. It is not-for-profit and has funded all of its operations since 1999 from power sales rather than federal appropriations. It raises capital through bonds sold in the public markets without a federal guarantee. A 9-member board nominated by the President and confirmed by the Senate chooses its chief executive and sets rates, which by statute must stay as low as feasible while covering costs and debt service. It is the largest public power provider in the country, serving roughly 10 million people at rates below those most large United States utilities charge.</p>
-<h3 class="wp-sub" id="the-rural-electrification-act">The Rural Electrification Act</h3>
+<h3 class="wp-sub3" id="the-rural-electrification-act">The Rural Electrification Act</h3>
 <p>In 1936, nearly 90 percent of farms lacked electric power because the cost of transmitting electricity to rural areas was prohibitive. Private utilities had studied the problem and declined to solve it; the math did not work for shareholders. The Rural Electrification Act was signed into law by President Roosevelt on May 20, 1936, providing federal loans for the installation of electrical distribution systems to serve isolated rural areas, channeled through cooperative electric power companies. By 1950, close to 80 percent of U.S. farms had electric service. The Rural Electrification Act&#x27;s core logic, that markets will not serve dispersed populations at uniform prices without public intervention, applies with equal force to rural parcel delivery in 2026.</p>
-<h3 class="wp-sub" id="the-interstate-highway-system">The Interstate Highway System</h3>
+<h3 class="wp-sub3" id="the-interstate-highway-system">The Interstate Highway System</h3>
 <p>Before 1956, the United States had no connected national network of high-speed roads. Limited-access highways existed in scattered segments, most built by individual states through toll authorities that issued bonds and charged drivers to repay them. The Pennsylvania Turnpike, opened in 1940, was the first and prompted similar projects in other states, but these were isolated routes serving single corridors rather than a system. A national network required financing and uniform standards that no single state could supply on its own.</p>
 <p>The Federal-Aid Highway Act of 1956 provided both. It authorized 41,000 miles of the Interstate Highway System built to common engineering standards, with the federal government paying 90 percent of construction costs through a dedicated Highway Trust Fund financed by motor fuel taxes. The original authorization was $25 billion, equivalent to over $200 billion in today&#x27;s dollars. The states retained operation of the roads; the federal role was to fund the network and set the standards that kept it continuous across state lines.</p>
 <p>Where a state toll road already followed an Interstate route, the Act designated it into the system rather than buying it. The network was financed by the public and built to a common standard, operated throughout by non-federal authorities.</p>
-<h3 class="wp-sub" id="the-transportation-security-administration-tsa">The Transportation Security Administration (TSA)</h3>
+<h3 class="wp-sub3" id="the-transportation-security-administration-tsa">The Transportation Security Administration (TSA)</h3>
 <p>At the time of the September 11 attacks, myriad private security companies managed air travel security under contract to individual airlines. Congress created the Transportation Security Administration through the Aviation and Transportation Security Act, signed into law on November 19, 2001, setting a one-year deadline for federal officers to take over passenger and baggage screening nationwide. TSA met that deadline, replacing 16,500 private airport screeners with more than 40,000 federal screeners across 429 commercial airports by November 19, 2002. This replacement of a private, contractor-based workforce with a federal one, at this scale and on this timetable, is the most direct operational precedent for what Deliver America proposes.</p>
 <p>These precedents establish a consistent principle: when private infrastructure becomes essential, the public should have a stake in it.</p>
 <h3 class="wp-sub" id="couldn-t-we-just-regulate-amazon">Couldn’t We Just Regulate Amazon?</h3>
 <p>There are good arguments for regulating Amazon’s Delivery Network as a common carrier.</p>
-<h3 class="wp-sub" id="the-hepburn-act">The Hepburn Act</h3>
+<h3 class="wp-sub3" id="the-hepburn-act">The Hepburn Act</h3>
 <p>The Hepburn Act of 1906 brought railroads and oil pipelines under federal regulation as common carriers required to carry all shippers on equal terms. Standard Oil had used its control of the interstate pipeline network not merely to transport oil, but to determine who else could participate in the oil business. Congress responded by obligating them to carry all shippers on equal terms at published, non-discriminatory rates.</p>
 <p>This principle should still hold in the 21st century: whoever controls the conduit controls who can compete, and a remedy is to regulate the conduit rather than the commerce moving through it.</p>
 <p>Multi-platform integration as an anticompetitive workaround has been a concern, especially with respect to Amazon, for almost a decade. Lina Khan (FTC chair, 2021 to 2025) anticipated the dynamic in 2017. Among her recommended potential remedies was to regulate parts of Amazon as public utilities. But we didn’t do it then, and much has happened in the intervening 9 years.</p>
@@ -604,7 +625,7 @@
 <h3 class="wp-sub" id="why-not-privatize-the-postal-service-instead">Why Not Privatize the Postal Service Instead?</h3>
 <p>If Amazon&#x27;s logistics network already outperforms USPS, why not go the other direction and let Amazon run it?</p>
 <ol><li>Universal service depends on a legal obligation, not operator efficiency. USPS must deliver to every address in the country six days a week at one price. Amazon already returns unprofitable rural deliveries to USPS today; owning the whole system would remove the entity currently absorbing those routes, with no substitute obligation unless new legislation created one.</li><li>Rate discipline would weaken substantially. USPS pricing on products like First-Class mail is capped by the Postal Regulatory Commission and tied to inflation. A privatized, Amazon-run system would answer to shareholders rather than a rate regulator, particularly in regions with no competing carrier at all.</li><li>Mail privacy protections tied to government custody would not automatically transfer. The warrant requirement for opening mail rests on Fourth Amendment protections against government search, dating to Ex parte Jackson in 1878. A private operator answers to its own privacy policy instead, the same standard Amazon has faced two federal enforcement actions over in the past three years (FTC v. Ring LLC and United States v. Amazon.com).</li><li>Election mail and official government correspondence would sit inside a single, politically and economically powerful private company, rather than an agency answerable to Congress.</li><li>Postal workers would lose the civil service status and collective bargaining protections that do not currently extend to most of Amazon&#x27;s own workforce, detailed further in Chapter 4.</li></ol>
-<p>Privatization would concentrate the country&#x27;s only universal delivery network inside the company that already dominates e-commerce fulfillment. Deliver America proposes the opposite direction: public custody of the network, rather than private ownership of it.</p>
+<p>Privatization would concentrate the country&#x27;s only universal delivery network inside the company that already dominates e-commerce fulfillment. <em>That&#x27;s</em> why not.</p>
 <h2 id="3-proposed-acquisitions" class="wp-chapter">3. Proposed Acquisitions</h2>
 <h3 class="wp-sub" id="defining-the-transaction">Defining the Transaction</h3>
 <p>Deliver America proposes to acquire a specific, bounded set of assets: the network through which Amazon.com, Inc. moves a package from warehouse shelf to doorstep. This proposal names that network the Delivery Network. It would comprise:</p>
@@ -616,61 +637,62 @@
 <ol><li>Amazon facilities, fleet, and delivery workforce are managed separately from the retail and technology divisions.</li><li>Amazon already sells logistics capacity to outside parties through Fulfillment by Amazon and, more recently, by opening its delivery network to third-party shippers who do not sell on Amazon at all.</li><li>Remaining integration exists at the software and data layer. Warehouses, trucks, and sortation equipment transfer cleanly; the systems connecting them to Amazon&#x27;s retail operation may be addressed through licensing agreements that define the boundary.</li></ol>
 <h3 class="wp-sub" id="asset-inventory">Asset Inventory</h3>
 <p>The figures here are drawn from public filings and from third-party network tracking, principally MWPVL International. MWPVL establishes the scale and composition of the network with reasonable confidence. These figures are not a substitute for the audited carve-out financials this transaction would require.</p>
-<h3 class="wp-sub" id="facilities">Facilities</h3>
+<h3 class="wp-sub3" id="facilities">Facilities</h3>
 <p>Within the United States, Amazon operates more than 600 logistics facilities of all types, including fulfillment centers, sortation centers, delivery stations, inbound cross-docks, and air gateways, totaling roughly 435 million square feet, per MWPVL International first-quarter 2025 data. The global network is larger, at approximately 1,200 facilities. The transaction contemplated here concerns the United States network. That count predates a clean split by facility type, and some buildings in it are Amazon Warehousing and Distribution centers that would sit outside the perimeter drawn below. Appendix A flags the facility type that a valuation would require.</p>
 <p>One valuation question cannot be answered from public data: the division between owned and leased facilities. Amazon leases a substantial share of its operational space. Leased facilities are not owned assets that pass by sale - they must be assigned or renegotiated, each subject to its own terms and to landlord consent. The square footage figure measures operational capacity, not acquirable property. Establishing the owned-versus-leased split, and the net book value of the owned portion, requires Amazon&#x27;s property records and is a precondition to any credible valuation.</p>
-<h3 class="wp-sub" id="fleet">Fleet</h3>
+<h3 class="wp-sub3" id="fleet">Fleet</h3>
 <p>Amazon&#x27;s branded transportation fleet includes approximately 40,000 semi-trucks, 30,000 delivery vans, and approximately 110 aircraft operated through Amazon Air, together with more than 70,000 trailers and more than 20,000 intermodal containers. These are global figures; the United States accounts for the majority but not the whole. Three distinctions bear on acquisition:</p>
 <ol><li>The 30,000 branded vans are a fraction of the vehicles delivering Amazon packages, because most last-mile delivery is performed by Delivery Service Partners (DSPs) using vehicles those contractors own or lease, which do not transfer with the network</li><li>The aircraft and a portion of the trailer fleet are leased rather than owned, so here again the figures state operational capacity, with the owned share awaiting financial confirmation.</li><li>The line-haul trucks and trailers that carry parcels through the network would be acquired, while assets dedicated to the commercial freight service Amazon sells to industrial shippers, including intermodal and rail operations, would remain Amazon&#x27;s under the perimeter drawn below. The two share vehicles and lanes, so which specific assets would transfer is a question for an audited carve-out.</li></ol>
-<h3 class="wp-sub" id="automation">Automation</h3>
+<h3 class="wp-sub3" id="automation">Automation</h3>
 <p>More than 1 million robots operate across the fulfillment network, a threshold Amazon reported crossing in 2025, with robotic systems now involved in roughly 75 percent of delivery volume. These systems are developed and produced by Amazon Robotics, the wholly owned subsidiary that began as Kiva Systems, acquired by Amazon in 2012. Amazon Robotics holds the patents, designs, and production capacity behind the deployed fleet. Its intellectual property, more than the unit count, is the consequential asset, because it informs whether the fleet would become dependent on its former owner for replacement and upgrade. The treatment of that intellectual property would be a defined term of the acquisition agreement.</p>
-<h3 class="wp-sub" id="operational-technology">Operational Technology</h3>
+<h3 class="wp-sub3" id="operational-technology">Operational Technology</h3>
 <p>Routing algorithms, network-planning systems, warehouse-management software, and fleet-coordination tools direct the physical assets above. This layer is the most deeply integrated with Amazon&#x27;s retail and inventory platforms and the least amenable to clean transfer. Its disposition, by transfer or by license, would also be a defined term of the agreement.</p>
-<h3 class="wp-sub" id="workforce">Workforce</h3>
+<h3 class="wp-sub3" id="workforce">Workforce</h3>
 <p>The network is operated by more than 1 million workers. The composition of that workforce, the share directly employed against the share contracted, and the obligations attaching to each, are the subject of Chapter 4.</p>
-<h3 class="wp-sub" id="what-public-data-cannot-establish">What Public Data Cannot Establish</h3>
+<h3 class="wp-sub3" id="what-public-data-cannot-establish">What Public Data Cannot Establish</h3>
 <p>Three inputs essential to valuation lie outside public reach:</p>
 <ol><li>The owned-versus-leased division of facilities and fleet</li><li>The net book value of owned property and equipment</li><li>The capitalized cost and depreciation schedule of the robotics fleet.</li></ol>
 <p>The valuation that follows proceeds on public estimates and states its assumptions.</p>
-<p>The Perimeter: What Would Be Acquired, and What Would Not</p>
+<h3 class="wp-sub" id="the-perimeter-what-would-be-acquired-and-what-would-not">The Perimeter: What Would Be Acquired, and What Would Not</h3>
 <p>Amazon today markets its logistics capabilities as a single integrated platform. Amazon Supply Chain Services (ASCS) offers sellers an end-to-end chain: pickup at manufacturing facilities abroad, cross-border ocean and air freight with customs clearance through Amazon Global Logistics (AGL) and Seller Export and Delivery (SEND), bulk storage through Amazon Warehousing and Distribution (AWD), bulk movement to any sales channel through Multi-Channel Distribution (MCD), order fulfillment through Fulfillment by Amazon (FBA) and Multi-Channel Fulfillment (MCF), and parcel carriage to the customer&#x27;s address, including through Amazon Shipping, the carrier service Amazon sells to outside shippers.</p>
 <p>A serious description of an acquisition must state which of these layers would pass to public ownership.</p>
-<p>The proposed list of acquisitions follows from the Constitution. Article I, Section 8, Clause 7 concerns carriage of items to American destinations (“post roads”), which the Postal Service exists to perform. The Delivery Network, as this proposal defines it, would comprise the layer of Amazon&#x27;s operation that performs that same function: the fulfillment centers where orders are picked and packed, the sortation centers and domestic line-haul fleet that move them, the delivery stations and delivery workforce that carry them to the door, and the software and robotics that operate those facilities. Enabling legislation could apply a functional test: an asset or service would belong inside the acquisition if its purpose is moving goods to American addresses, including the short-dwell inventory positioning (“post offices”) that order fulfillment requires. It would belong outside if its purpose is storage, supply-chain management, or cross-border carriage.</p>
-<p>Under that test, Amazon would retain its entire supply-chain services business. AWD, which sells bulk and long-term storage as a product, would remain Amazon&#x27;s. So would MCD, which distributes bulk inventory to wholesale and retail channels; AGL and SEND, which sell international freight forwarding and customs brokerage; the Partnered Carrier Program, a procurement arrangement rather than an asset; Buy with Prime, a commerce service on sellers&#x27; own sites; and the managed supply-chain orchestration layer that coordinates them. These services would continue to operate, and Amazon would continue to sell them.</p>
-<p>What would change is the handoff at the end of the chain: inventory bound for American customers would be inducted into the public network for fulfillment and delivery, under a long-term service agreement for Amazon&#x27;s own volume and at published, non-discriminatory rates for every other shipper.</p>
-<p>The distinction between storage incident to carriage and storage as a product deserves a look, because the two occupy similar buildings. A fulfillment center holds inventory briefly and for one purpose: so that an order placed today can reach an address tomorrow. That holding is part of carriage, as surely as a package resting overnight in a postal processing plant is part of mail delivery. A bulk storage contract, by contrast, is a warehousing service, a business the Postal Service has never been in and should not enter. The enabling legislation could fix the mission boundary in statute: the network would exist to deliver, and the adjacent businesses of warehousing, supply-chain management, and international freight would remain where they are today, in private hands, as customers of the public network.</p>
-<p>Deliver America would acquire what duplicates and supplants the Postal Service, and nothing beyond it.</p>
+<p>The proposed list of acquisitions follows from the Constitution. Article I, Section 8, Clause 7 gives Congress the power to establish &quot;Post Offices and post Roads,&quot; the carrying of items to addresses across the country that the Postal Service exists to perform. The Delivery Network, as this proposal defines it, would be the part of Amazon that now does that same job: the fulfillment centers where orders are picked and packed, the sortation centers and the long-distance trucks and cargo planes that move packages between facilities, the neighborhood delivery stations and the people who carry packages to the door, and the software and robots that run all of it. The government would buy that operation, its buildings, equipment, and workers, but not the goods passing through it, which would still belong to the sellers and shippers who own them. Enabling legislation could apply a simple test: an asset or service would be inside the acquisition if its job is moving goods to American addresses, including the holding of goods that filling an order requires. It would be outside if its job is renting out storage as a service, managing supply chains, or shipping across borders.</p>
+<p>Under that test, Amazon would keep its entire supply-chain services business and go on selling it. That includes its storage business (Amazon Warehousing and Distribution), which rents out bulk space for long stretches; its bulk-distribution business (Multi-Channel Distribution), which moves inventory in volume to wholesalers and stores; its international shipping and customs operations (Amazon Global Logistics and Seller Export and Delivery); the Partnered Carrier Program, which is a way of buying trucking rather than a thing to own; Buy with Prime, a checkout button Amazon places on other companies&#x27; websites; and the software that coordinates all of these. Every one of them would keep operating, and every one would become a customer of the public network.</p>
+<p>What would change is the last step. Goods headed to American customers would be handed to the public network to fulfill and deliver: for Amazon&#x27;s own packages, under a long-term contract; for every other shipper, at posted rates that are the same for everyone.</p>
+<p>One line is worth drawing carefully, because storing goods and delivering them can happen in similar-looking buildings. The difference is what the owner is paying for, and the price gives it away. A fulfillment center holds goods so that an order can reach a doorstep soon after it is placed, and the fee for that holding climbs the longer an item sits unsold, which pushes goods toward the door rather than letting them pile up. Renting out storage works the other way: a company pays for cheap space to keep its goods on hand for as long as it likes, and nothing in the price pushes those goods to move. A package waiting in a fulfillment center is waiting to ship the moment someone buys it, and its owner pays more the longer that wait runs. Goods in a rented warehouse are sitting still because sitting still is the service the owner bought. Holding a package on its way to a customer is part of delivering it, in the same way a letter resting overnight at a postal plant is part of the mail. Renting shelf space for a fee is not delivering, and it belongs to a warehousing business the Postal Service has never been in and should not enter.</p>
+<p><em>Deliver America would acquire what duplicates and supplants the Postal Service, and nothing beyond it.</em></p>
 <h3 class="wp-sub" id="valuation-methodology">Valuation Methodology</h3>
-<p>Figures below are estimates derived from public data, and rest on assumptions stated plainly so a reviewer can test them.</p>
+<p><em>Figures below are estimates derived from public data, and rest on assumptions stated plainly so a reviewer can test them.</em></p>
 <p>Valuation of the Distribution Network can be approached from multiple angles:</p>
-<h3 class="wp-sub" id="the-asset-approach">The Asset Approach</h3>
+<h3 class="wp-sub3" id="the-asset-approach">The Asset Approach</h3>
 <p>The asset approach asks what it would cost to rebuild the network from nothing: over 600 United States facilities and roughly 435 million square feet of operational space, approximately 40,000 trucks and 30,000 branded vans, an air operation of roughly 110 aircraft, more than 1 million deployed robots, the software that coordinates them, and a trained workforce of more than 1 million that no amount of capital could quickly reproduce. This approach yields the highest figure and overstates realizable value, because no buyer pays to rebuild what can be bought.</p>
-<h3 class="wp-sub" id="the-revenue-multiple-approach">The Revenue-Multiple Approach</h3>
+<h3 class="wp-sub3" id="the-revenue-multiple-approach">The Revenue-Multiple Approach</h3>
 <p>The revenue-multiple approach yields the lowest figure and understates value in the opposite direction. The Delivery Network earns estimated external shipping revenue of $31.1 billion. This lowballs the value because it prices only what the Delivery Network bills to outside parties and ignores the far larger volume it carries for Amazon&#x27;s own retail operation at no market charge.</p>
-<h3 class="wp-sub" id="the-going-concern-approach">The Going-Concern Approach</h3>
+<h3 class="wp-sub3" id="the-going-concern-approach">The Going-Concern Approach</h3>
 <p>The going-concern approach reconciles the two and is the basis this proposal adopts. It values the network on its full throughput priced at market rates, not on the slice of revenue it currently collects externally. Under the long-term service agreement set out later in this chapter, the Delivery Network would bill Amazon retail at regulated market rates for the volume it moves, which today is carried internally and unpriced. Regulation here governs the form of the rate, not its level: a published, non-discriminatory schedule benchmarked to prevailing market prices. The moment that volume is billed, the network&#x27;s revenue base would expand several fold, and the going-concern value would rise accordingly. This basis prices the network as the operating business it would become under public ownership.</p>
-<h3 class="wp-sub" id="fair-market-value">Fair Market Value</h3>
+<h3 class="wp-sub3" id="fair-market-value">Fair Market Value</h3>
 <p>On that basis, fair market value falls in a range of approximately $150 billion to $250 billion, with a working midpoint near $200 billion. Publicly available comparable numbers support this range. Because the perimeter excludes warehousing, freight forwarding, cross-border carriage, and commercial freight, the comparison is like-for-like: what would be valued is the same domestic parcel business UPS and FedEx are in, at larger volume. The Delivery Network already moves more parcel volume than UPS, and UPS is worth near $92 billion. A network larger than the largest incumbent (and growing), should be valued above it, which places a floor over $92 billion. A midpoint near $200 billion prices the network at roughly 2.2 times that largest comparable.</p>
 <p>The assumption that keeps the figure from running higher: unlike UPS and FedEx (valued near $78 billion following its spin-off of FedEx Freight on June 1, 2026), this network has never had to cover its own cost of capital as a standalone business, and a disciplined buyer prices the risk that its margins look different once it pays its own way.</p>
-<p>Why The US Should Not Acquire Retail or Third-Party Seller Services</p>
-<h3 class="wp-sub" id="the-infrastructure-distinction">The Infrastructure Distinction</h3>
+<h3 class="wp-sub" id="why-the-us-should-not-acquire-retail-or-third-party-seller-services">Why The US Should Not Acquire Retail or Third-Party Seller Services</h3>
+<h3 class="wp-sub3" id="the-infrastructure-distinction">The Infrastructure Distinction</h3>
 <p>The United States distinguishes between the routes commerce travels and the commerce itself. The government builds and owns post roads, and private merchants carry their goods along them; it dredges and maintains rivers, and private freight moves on the water; it finances the Interstate Highway System, and private trucks and private stores conduct the business made possible. In short: the public provides the right-of-way, which private parties use to buy and sell. No one asks whether a federal highway makes the government a trucking company.</p>
 <p>Deliver America would bring the Delivery Network to the public side of that equation. The government would own the network that moves the goods and would have no part in selling them.</p>
 <p>Including the marketplace would place the federal government in direct commercial competition with Walmart, Target, every small retailer, and every rival marketplace in the country, setting prices and stocking shelves against private merchants who have no comparable backing. Deliver America explicitly does not propose this.</p>
-<p>Is This Communism?</p>
+<h3 class="wp-sub3" id="is-this-communism">Is This Communism?</h3>
 <p>No.</p>
-<p>The charge that public ownership amounts to Communist capture has little purchase against a government that owns the road and leaves the selling to private interests. Infrastructure in public hands is the ordinary American arrangement: the postal system; the highways; the air traffic control system; the ports, locks and dams, etc. Confined to logistics, the proposed acquisition stays on the side of the line the United States has occupied since its founding.</p>
-<h3 class="wp-sub" id="legal-encumbrance-questions">Legal Encumbrance Questions</h3>
-<p>Amazon.com, Inc. is the defendant in two active antitrust proceedings concerning the same underlying conduct, one a federal consumer class action and one a state enforcement action, both set for trial in 2027.</p>
-<p>The first is De Coster v. Amazon.com, Inc. (W.D. Wash.). Filed in 2021 and certified on August 6, 2025, it covers an estimated 288 million consumers, which class counsel call the largest class ever certified in the United States. The claim arises under Section 1 of the Sherman Act. Plaintiffs allege Amazon charges third-party sellers fees well above competing marketplaces, then bars them from pricing lower elsewhere, so the cost reaches the consumer. The court found common proof that Amazon&#x27;s policies function as a platform most-favored-nation restraint, barring a seller from undercutting its Amazon price on a competing site. Sellers who price lower elsewhere can lose the access to Buy Box, have shipping suspended, or face removal. Plaintiffs&#x27; economic experts estimated the conduct affected roughly 288 million consumers across 34 billion transactions. The class period runs from May 26, 2017; consumers may opt out until August 31, 2026; trial is set for June 14, 2027, seeking treble damages and injunctive relief.</p>
+<p>The charge that public ownership amounts to Communist capture has little purchase against a government that owns the road and leaves the selling to private interests. Infrastructure in public hands is the ordinary American arrangement: the postal system; the highways; the air traffic control system; the ports, locks and dams, etc. Confined to logistics, the proposed acquisition stays on the side of the line the United States has occupied since its founding, well before Karl Marx was even born.</p>
+<h3 class="wp-sub3" id="legal-encumbrance-questions">Legal Encumbrance Questions</h3>
+<p>Amazon.com, Inc. is the defendant in (at least) two active antitrust proceedings concerning the same underlying conduct, one a federal consumer class action and one a state enforcement action, both set for trial in 2027.</p>
+<p>Consider first De Coster v. Amazon.com, Inc. (W.D. Wash.). Filed in 2021 and certified on August 6, 2025, it covers an estimated 288 million consumers (approximately 85% of all Americans), which class counsel call the largest class ever certified in the United States. The claim arises under Section 1 of the Sherman Act. Plaintiffs allege Amazon charges third-party sellers fees well above competing marketplaces, then bars them from pricing lower elsewhere, so the cost reaches the consumer.</p>
+<p>The court found common proof that Amazon&#x27;s policies function as a platform most-favored-nation restraint, barring a seller from undercutting its Amazon price on competing sites. Sellers who price lower elsewhere can lose the access to Buy Box, have shipping suspended, or face removal. Plaintiffs&#x27; economic experts estimated the conduct affected roughly 34 billion transactions. The class period runs from May 26, 2017; consumers may opt out until August 31, 2026; trial is set for June 14, 2027, seeking treble damages and injunctive relief.</p>
 <p>The second is California v. Amazon, filed by Attorney General Rob Bonta in 2022 in San Francisco Superior Court under state antitrust law. On April 20, 2026, Bonta announced the public release of evidence his office called proof of an illegal price-fixing scheme. The unredacted filing describes communications in which Amazon pressed vendors to raise prices on competing retailers, among them Walmart, Target, and Best Buy. A hearing on the state&#x27;s preliminary injunction is set for July 23, 2026, and trial for January 19, 2027.</p>
-<h3 class="wp-sub" id="structural-relief">Structural Relief</h3>
+<h3 class="wp-sub3" id="structural-relief">Structural Relief</h3>
 <p>Going forward, the Deliver America acquisition could remove the fulfillment-access lever that gives California v. Amazon much of its force. That prospective structural relief, of the kind the government&#x27;s injunctive actions seek, could retire Amazon&#x27;s continuing exposure on this conduct regardless of how the existing claims resolve.</p>
 <p>The disputed policy works through penalties Amazon imposes on a seller who prices lower on a competing platform. Those penalties draw on two separate powers. The first is control of fulfillment: a seller who loses Amazon&#x27;s fulfillment access loses the means to deliver. The second is control of demand: Amazon&#x27;s marketplace holds the dominant share of online marketplace sales, about 72% by the plaintiffs&#x27; estimate, such that removal from the platform severs a seller from where the buyers are.</p>
 <p>Public ownership would affect the first power directly. A network owned by the Deliver America Authority and operated at regulated, non-discriminatory rates would serve every shipper on equal terms. A seller who ships through it would no longer depend on Amazon to deliver and would no longer forfeit fulfillment by pricing lower elsewhere. The most coercive of Amazon&#x27;s levers would be neutralized by the acquisition itself.</p>
 <p>The second lever, control of demand, is not directly addressed by Deliver America. Buy Box suppression and deplatforming could persist. Public acquisition of the Delivery Network could weaken this lever indirectly, however: because fast, reliable Prime delivery is part of what holds shoppers to Amazon, a public network offering comparable delivery to every platform lets competing sites match it, and as they approach parity the cost of losing Amazon falls.</p>
 <p>The proposed acquisition removes the fulfillment lever outright and erodes the demand lever over time, achieving prospectively much of what the Federal Trade Commission and California enforcement actions seek. Whether that relief is sufficient, in the sense the antitrust cases use the term, is beyond the scope of this proposal.</p>
-<h3 class="wp-sub" id="the-anchor-customer">The Anchor Customer</h3>
+<h3 class="wp-sub3" id="the-anchor-customer">The Anchor Customer</h3>
 <p>If Deliver America is successful, Amazon retail would become the largest customer of a network it no longer owns. Amazon’s Distribution Network was built to move Amazon&#x27;s own goods. If the Distribution Network becomes part of the USPS, Amazon retail&#x27;s volume is likely to remain its largest source of demand for the foreseeable future. A customer of that scale and steadiness is a foundation to build on.</p>
 <p>A long-term service agreement would commit Amazon retail to the USPS Distribution Network through a transition period, perhaps 5-10 years, with a volume commitment agreeable to both parties. Rates would follow a published schedule that declines with volume and applies to every shipper. Amazon would occupy the most favorable tier because of the volume it moves, not because of preference; any shipper at the same volume would receive an identical rate. Amazon, having handed off the capital and operational weight of running its own network, would keep a mature carrier it can rely on without the cost of sustaining it.</p>
 <h2 id="4-workforce-transformation" class="wp-chapter">4. Workforce Transformation</h2>
@@ -1180,24 +1202,42 @@
     setNavH();
 
     // Build the tree: each h2[id] is a section; following h3[id] are its children.
+    // Build tree: h2 = chapter; h3 = secondary, unless it carries .wp-sub3 (tertiary),
+    // in which case it nests under the most recent secondary.
     var heads = Array.prototype.slice.call(doc.querySelectorAll('h2[id], h3[id]'));
-    var sections = [], cur = null;
+    var sections = [], cur = null, curSec = null;
     heads.forEach(function (h) {
-      if (h.tagName === 'H2') { cur = { el: h, id: h.id, text: h.textContent.trim(), children: [] }; sections.push(cur); }
-      else if (cur) { cur.children.push({ el: h, id: h.id, text: h.textContent.trim() }); }
+      if (h.tagName === 'H2') {
+        cur = { id: h.id, text: h.textContent.trim(), subs: [] };
+        sections.push(cur); curSec = null;
+      } else if (cur) {
+        if (h.classList.contains('wp-sub3') && curSec) {
+          curSec.terts.push({ id: h.id, text: h.textContent.trim() });
+        } else {
+          curSec = { id: h.id, text: h.textContent.trim(), terts: [] };
+          cur.subs.push(curSec);
+        }
+      }
     });
 
     var html = '<ul class="wp-rail-list">';
     sections.forEach(function (s) {
-      var kids = s.children.length > 0;
-      html += '<li class="wp-rail-item">';
-      html += '<div class="wp-rail-row">';
+      var kids = s.subs.length > 0;
+      html += '<li class="wp-rail-item"><div class="wp-rail-row">';
       html += '<a class="wp-rail-link" href="#' + s.id + '" data-id="' + s.id + '">' + esc(s.text) + '</a>';
       if (kids) html += '<button class="wp-rail-caret" aria-label="Expand section" aria-expanded="false">&#9656;</button>';
       html += '</div>';
       if (kids) {
         html += '<ul class="wp-rail-sub">';
-        s.children.forEach(function (c) { html += '<li><a href="#' + c.id + '" data-id="' + c.id + '">' + esc(c.text) + '</a></li>'; });
+        s.subs.forEach(function (sec) {
+          html += '<li><a href="#' + sec.id + '" data-id="' + sec.id + '">' + esc(sec.text) + '</a>';
+          if (sec.terts.length) {
+            html += '<ul class="wp-rail-sub3">';
+            sec.terts.forEach(function (t) { html += '<li><a href="#' + t.id + '" data-id="' + t.id + '">' + esc(t.text) + '</a></li>'; });
+            html += '</ul>';
+          }
+          html += '</li>';
+        });
         html += '</ul>';
       }
       html += '</li>';
